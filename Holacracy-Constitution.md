@@ -1,467 +1,469 @@
-# **Holacracy Constitution**
+# **Ústava Holakracie**
 
-## Preamble
+## Preambule
 
-The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.
+***“Ratifikátoři”*** tímto přijímají tuto ***“Ústavu”*** jako formální strukturu orgánů uvedené ***“Organizace”***. Ratifikátoři tak přenášejí svou pravomoc řídit a vést Organizaci podle pravidel a procesů uvedených v tomto dokumentu, s výjimkou pravomocí, které Ratifikátoři nejsou oprávněni delegovat. Ratifikátoři nebo jejich nástupci mohou tuto Ústavu změnit nebo zrušit s využitím jakékoli pravomoci, o kterou se při jejím přijetí opírali, za předpokladu, že veškeré změny budou provedeny písemně.
 
-Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+Veškeré stávající politiky a systémy, které Organizace uplatňovala před přijetím této Ústavy, zůstávají v plné platnosti i po jejím přijetí, nelze je však rozšiřovat ani upravovat s výjimkou pravomocí a postupů definovaných v této Ústavě. Tyto starší politiky a systémy dále ztrácejí veškerou váhu a autoritu, jakmile procesy této ústavy vytvoří něco, co je nahradí nebo co jim bude odporovat.
 
-The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Within that constraint, the Organization may define how it grants or removes Partner status, unless otherwise specified by the Ratifiers, and the Ratifiers may specify the initial Partners for the Organization.
+Organizace může kromě ratifikátorů jmenovat další ***“Partnery”***, kteří ji budou pomáhat s řízením a provozem, za předpokladu, že všichni tito Partneři rovněž souhlasili s dodržováním všech příslušných podmínek této Ústavy. V rámci tohoto omezení může Organizace definovat způsob, jakým uděluje nebo odebírá status Partnera, pokud Ratifikátoři nestanoví jinak, a Ratifikátoři mohou určit počáteční Partnery Organizace.
 
-Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.
+Každý Partner se může dovolávat pravomocí udělených touto Ústavou v plném rozsahu, v jakém jimi disponovali Ratifikátoři před jejím přijetím. Veškeré povinnosti a omezení Partnera vyplývají z této Ústavy a výstupů z jejích procesů a ze všech právních povinností, které má Partner vůči Organizaci a při jednání jejím jménem. Žádná implicitní očekávání nebo omezení nemají nad Partnerem žádnou moc, stejně jako žádný diktát vydaný mimo pravomoc danou touto Ústavou.
 
 
-## Article 1: Organizational Structure
+## Článek 1: Organizační struktura
 
-### 1.1 Role Definition
+### 1.1 Definice Role
 
-A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.
+***“Role”*** je organizační koncept, kterou může osoba jménem Organizace držet a naplňovat. Ten, kdo naplňuje Roli, je "Lídrem Role" pro danou Roli.
 
-A Role definition consists of a descriptive name and one or more of the following:
+Definice Role se skládá z popisného názvu a jednoho nebo více z následujících údajů:
 
-- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
-- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
-- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose.
+- **(a)** ***“Záměr”***, což je schopnost, potenciál, nebo cíl, který Role sleduje nebo vyjadřuje.
+- **(b)** jedna nebo více ***“Domén”***, což jsou aktiva, procesy nebo jiné věci, které může Role pro svůj Záměr výhradně kontrolovat a regulovat jako svůj majetek.
+- **(c)** jedna nebo více ***“Odpovědností”***, což jsou průběžné aktivity, které Role řídí a přijímá je jako službu jiným Rolí nebo na podporu svého Záměru.
 
-A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.
+Role může obsahovat také ***“Politiky”***, které jsou udělením nebo omezením pravomoci, nebo zvláštní pravidla, která platí v rámci této role.
 
-### 1.2 Responsibilities of Role Leads
+### 1.2 Odpovědnosti Lídrů Rolí
 
-As a Role Lead, you have the following responsibilities:
+Jako Lídr Role máte následující povinnosti:
 
-#### 1.2.1 Processing Tensions
+#### 1.2.1 Zpracovávat tenze
 
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
+Vaší odpovědností je porovnávat skutečné vyjádření Záměru a Odpovědností vaší Role s vaší vizí jejich ideálního potenciálu a identifikovat rozdíly mezi nimi (každý rozdíl je ***„Tenze“*** ). Vaší odpovědností je pokusit se tyto tenze vyřešit.
 
-#### 1.2.2 Processing Purpose & Accountabilities
+#### 1.2.2 Zpracovávat Záměr & Odpovědnosti
 
-You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
+Vaší odpovědností je pravidelně zvažovat, jak naplňovat Záměr vaší Role a každou Odpovědnost, a to definováním:
 
-- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
-- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+- **(a)** ***“Next-Actions”***, což jsou užitečné akce, které byste mohli provést okamžitě, přinejmenším v případě neexistence konkurenčních priorit; a
+- **(b)** ***“Projects”***, což jsou konkrétní výsledky, na jejichž dosažení by bylo užitečné pracovat, v případě neexistence konkurenčních priorit.
 
-#### 1.2.3 Breaking Down Projects
+#### 1.2.3 Členění Projektů
+Jste zodpovědní za pravidelné definování Dalších akcí pro každý z aktivních Projektů vaší Role.
 
-You are responsible for regularly defining Next-Actions for each of your Role's active Projects.
+#### 1.2.4 Sledování Projektů, Dalších akcí & Tenzí
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+Vaší odpovědnosti je zachytit a sledovat všechny Projekty a Dalších akce vaší Role v písemných seznamech. Zároveň je  také vaší odpovědností sledovat Tenze, které chcete vyřešit, a to alespoň do doby, než je zpracujete do Projektů nebo Dalších akcí. Jste také odpovědní za pravidelnou revizi a aktualizaci těchto seznamů, abyste je udržovali jako důvěryhodný zdroj potenciální činnosti vaší Role.
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
+#### 1.2.5 Provádění Dalších akcí
 
-#### 1.2.5 Executing Next-Actions
+Kdykoli máte  prostor jednat v Roli, jste odpovědní za zvážení Dalších akcí, které byste mohli podniknout, a za provedení toho, co by Organizaci přineslo největší hodnotu.
 
-Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.
+### 1.3 Kruhy
 
-### 1.3 Circles
+A ***“Kruh”*** je seskupení Rolí a politik Organizace kolem společného Záměru. Role a politiky v rámci Kruhu tvoří jeho aktivní ***„Pravidla řízení”***.
 
-A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.
+#### 1.3.1 Členění Rolí
 
-#### 1.3.1 Breaking Down Roles
+Každá Role je uvnitř také Kruhem. Tento Kruh může mít své vlastní Role a Politiky, které rozdělují a organizují jeho aktivity. To se netýká Rolích definovaných v této Ústavě, které nesmějí být dále členěny.
 
-The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in this Constitution, which may not be further broken down.
+Vnitřní Kruh Role je považován za ***„Podkruh“*** širšího Kruhu, který drží Roli, zatímco tento širší Kruh je jeho ***„Superkruhem“***.
 
-A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.
+#### 1.3.2 Delegování Domén
 
-#### 1.3.2 Delegating Domains
+Pokud Kruh přidělí Doménu jedné ze svých Rolí, může tuto Doménu jménem Kruhu ovládat kterýkoli Lídr Role pro danou Roli. Kruh může svým Rolím přidělit pouze ty Domény, které spadají do jeho vlastních Domén nebo které jsou relevantní pouze v rámci jeho vlastních interních procesů.
 
-When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
+Jakmile Role ovládá Doménu, může vytvářet Politiky, kterými se tato Doména řídí v rámci jejího vlastního řízení. Kruh, který Doménu delegoval, si však ponechává právo definovat i své vlastní Politiky, jimiž se daná Doména řídí. V případě konfliktu každá taková politika nahrazuje politiku definovanou rolí.
 
-Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.
+Udělení Domény Roli nedeleguje žádná práva, která má Kruh ke kontrole vynakládání financí nebo aktiv, není-li tak výslovně stanoveno.
 
-Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
+#### 1.3.3 Kotevní Kruh
 
-#### 1.3.3 Anchor Circle
+Nejširší Kruh, který drží Záměr celé Organizace, je její ***„Kotevní Kruh“***. Kotevní Kruh má všechna oprávnění a Domény, které sama Organizace ovládá, a nemá žádný Superkruh. Kotevní Kruh může změnit svůj vlastní Záměr nebo vyjasnit své vlastní Odpovědnosti prostřednictvím Politiky. 
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.
+Ratifikátoři mohou definovat počáteční strukturu a další Pravidla řízení v Kotevním Kruhu po přijetí této Ústavy.
 
-The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
+#### 1.3.4 Propojování do Kruhů
 
-#### 1.3.4 Linking Into Circles
+Role se může propojit do jiného Kruhu, pokud ji Politika tohoto jiného Kruhu nebo jakéhokoli Superkruhu  k tomu vyzve.
 
-A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.
+Jakmile je Role propojena s jiným Kruhem, je považována za součást pravidel řízení tohoto druhého Kruhu. Tento Kruh může Roli doplnit a později změnit to, co doplnil. Nesmí však Roli odstranit ani změnit nic, co doplnil jiný Kruh, a ani jiný Kruh nemůže změnit nebo odstranit nic, co nedoplnil. Pravomoc přidávat nebo měnit přiřazení do Role zůstává u jejího zdrojového Kruhu. Kruh, do kterého se Role propojuje, není považován za její Superkruh a ani vnitřní Kruh Role není považován za její Podkruh.
 
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
+Kruh může zrušit propojení Role odstraněním politiky, která jej vyzvala k propojení, nebo jiným mechanismem definovaným v této Politice. Role se také může rozhodnout odebrat se z Kruhu, do kterého je propojena, pokud Politika uvnitř Superkruhu Role nebo jednající podle něj nestanoví jinak. Jakmile se odpojí od Kruhu, veškerá Pravidla řízení přidaná do Role tímto Kruhem jsou automaticky odstraněna. 
 
-A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
+#### 1.3.5 Role Facilitátora & Tajemníka
 
-#### 1.3.5 Facilitator & Secretary Roles
+Každý Kruh může jmenovat kohokoliv ***"Facilitátorem"*** Kruhu. Zvolený Facilitátor plní v Kruhu ***"Roli Facilitátora"*** se Záměrem "Pravidla řízení a provozní postupy kruhu jsou v souladu s Ústavou".
+Každý kruh k může kohokoliv jmenovat ***"Tajemníkem"*** Kruhu. Zvolený tajemník plní v Kruhu ***"Roli Tajemníka"*** se Záměrem Stabilizovat Ústavou požadované záznamy a schůzky Kruhu". 
 
-Any Circle may appoint someone as the Circle's ***"Facilitator"***. The selected Facilitator fills a ***“Facilitator Role”*** in the Circle, with a Purpose of "Circle governance and operational practices aligned with the Constitution".
+Kruh může ke své vlastní Roli Facilitátora nebo Tajemníka přidávat Odpovědnosti nebo Domény, stejně jako tyto doplňky měnit nebo odebírat. Žádný Kruh nesmí měnit ani odstraňovat Záměr žádné z těchto Rolí, ani žádné Odpovědnosti nebo Domény, které jsou těmto Rolím svěřeny touto Ústavou.
 
-Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected Secretary fills a ***“Secretary Role”*** in the Circle, with a Purpose of "Stabilize the Circle’s constitutionally-required records and meetings".
+### 1.4 Lídr Kruhu
 
-A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.
+Sloužit jako Lídr Role znamená také sloužit jako ***"Lídr Kruhu"*** v rámci interního Kruhu dané Role, a tedy plnit ***"Roli Lídra Kruhu"*** v rámci tohoto Kruhu. Role Lídr Kruhu zastává celkový Záměr této širší Role a všechny Odpovědnosti v rámci této Role, pokud nejsou pokryty jinými Rolemi nebo procesy v rámci Kruhu.
 
-### 1.4 Circle Leads
+Kotevní Kruh nemá žádného Lídra Kruhu, pokud Politika Kruhu nestanoví jinak.
 
-Serving as a Role Lead also means serving as a ***“Circle Lead”*** within that Role's internal Circle, and thus filling the ***“Circle Lead Role”*** within. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by other Roles or processes within the Circle.
+#### 1.4.1 Přiřazování Rolí
 
-The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
+Lídr Kruhu přiděluje jakékoliv Role v Kruhu komukoli, kdo je ochoten je naplňovat, a to i více osobám současně. Každý, kdo je takto přiřazen, může později od držení Role odstoupit, pokud se nedohodl jinak. Lídr Kruhu může také kdykoli zrušit přidělení jakékoli Role v rámci Kruhu.
 
-#### 1.4.1 Assigning Roles
+Lídr Kruhu může přidělení Role dále zaměřit pouze na určitý kontext. Aby tak mohl učinit, musí být celá definice Role v daném kontextu stále relevantní. Při použití zaměření se každé přiřazené zaměření chová jako samostatná Role. Záměr, Domény a Odpovědnosti Role jsou stále platné, ale pouze v rámci přiřazeného přiřazení.
 
-A Circle Lead controls the Circle's Role assignments and may assign any Role within the Circle to anyone willing to fill it, including to multiple people at the same time. Anyone so assigned may later resign from filling the Role, unless they’ve agreed otherwise. A Circle Lead may also revoke an assignment to any Role within the Circle at any time.
+Nikdo jiný než Lídr Kruhu nesmí v rámci Kruhu přiřadit Roli nebo zrušit přiřazení Role, pokud Kruh nepředal přidělování Rolí jiné Roli nebo procesu. Politika může přiřazování nebo odebírání Rolí dále omezit.
 
-A Circle Lead may further focus a Role assignment on only a specific context. To do so, the entire Role definition must still be relevant within that context. When a focus is used, each assignment focus behaves like a separate Role. The Role's Purpose, Domains, and Accountabilities all still apply, but only within the focus of the assignment.
+#### 1.4.2 Pokrytí neobsazených Rolí
 
-No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.
+Kdykoli je Role v Kruhu neobsazená, každý Lídr Kruhu je automaticky považován za Lídra neobsazené Role.
 
-#### 1.4.2 Covering Unfilled Roles
+Pokud je Role obsazena pouze osobami, které nejsou Partnery Organizace, pak je každý Lídr Kruhu automaticky považován za Lídra Role této Role také. Toto výchozí přiřazení však platí pouze do té míry, že osoby, které nejsou Partnery, aktivně neplní příslušné Odpovědnosti a povinnosti, které by měl Partner.
 
-Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role.
+#### 1.4.3 Definování priorit a strategií
 
-When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.
+Lídr Kruhu může posoudit relativní hodnotu potenciálních snah Kruhu o vyřešení prioritních konfliktů napříč Rolemi. Lídr Kruhu  může také definovat ***„Strategii“** pro Kruh, nebo více Strategií, což jsou heuristiky, které řídí stanovení priorit v Kruhu.
 
-#### 1.4.3 Defining Priorities & Strategies
+#### 1.4.4 Směrování externích odkazů
 
-A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle.
+Kdykoli Pravidla řízení mimo Kruh odkazují na Kruh samotný nebo na jakoukoliv Roli v Kruhu, může Lídr Kruhu aktualizovat tento odkaz tak, aby místo toho odkazoval na jinou Roli v Kruhu. Toto vyjasnění se nepovažuje za změnu Pravidel řízení tohoto Kruhu..
 
-#### 1.4.4 Routing External References
+#### 1.4.5 Úprava Role Lídr Kruhu
 
-Whenever Governance outside the Circle references the Circle itself or any Role in the Circle, a Circle Lead may update that reference to instead refer to another Role in the Circle. This clarification is not considered a change to that Circle's Governance.
+ruh nesmí upravovat Záměr Role svého Lídra Kruhu ani Roli odstranit.
 
-#### 1.4.5 Amending the Circle Lead Role
+Kruh může do Role Lídra Kruhu přidat Odpovědnosti nebo Domény a později tyto dodatky odstranit. Jakékoli dodatky se však automaticky použijí také na každou Roli Lídra Kruhu Podkruhu rekurzivně. Kruh nesmí přidávat Odpovědnosti nebo Domény pouze do své vlastní Role Lídra Kruhu nebo do jakékoli Role relevantní pouze v rámci tohoto Kruhu.
 
-A Circle may not modify the Purpose of its Circle Lead Role, nor remove the Role.
+Kruh může odebrat jakékoli Odpovědnosti, Domény, pravomoci nebo funkce své vlastní Roli Lídra Kruhu. Může tak učinit buď tím, že je přenese na jinou Roli v Kruhu, nebo tím, že definuje alternativní způsob jejich provádění. Tímto postupem se příslušná pravomoc nebo prvek automaticky odstraní z Role Lídra Kruhu, a to po dobu, po kterou bude delegace platit.
 
-A Circle may add Accountabilities or Domains to the Circle Lead Role, and later remove these additions. However, any additions automatically apply to every Sub-Circle's Circle Lead Role as well, recursively. A Circle may not add Accountabilities or Domains just to its own Circle Lead Role, or any only relevant within that Circle.
 
-A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant authority or element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
+## Článek 2: Pravidla spolupráce
 
+### 2.1 Povinnost transparentnosti
 
-## Article 2: Rules of Cooperation
+Jako Partner máte povinnost poskytnout Lídrům Rolí v Organizaci na jejich žádost transparentnost, a to následujícím způsobem:
 
-### 2.1 Duty of Transparency
+- **(a) Projekty a Další akce:** Musíte sdílet všechny Projekty a Další akce, které pro Organizaci sledujete.
+- **(b) Relativní priorita:** Musíte sdílet svůj pohled na relativní prioritu všech Projektů nebo Dalších akcí sledovaných pro vaše Role v Kruhu, vs. čehokoli jiného,co vyžaduje vaši pozornost.
+- **(c) Projekce:** Musíte poskytnout projekci toho, kdy očekáváte dokončení některého z Projektů nebo Dalších akcí. Stačí hrubý odhad, vezmete-li v úvahu váš současný kontext a priority. Podrobná analýza nebo plánování nejsou vyžadovány a tato projekce není v žádném případě závazkem. Pokud Pravidla řízení nestanoví jinak, nemáte povinnost sledovat projekci nebo změny a informovat o nich žadatele o projekci.
+- **(d) Aktivity:** Musíte potvrdit dokončení všech opakujících se Akcí, které provádíte ve svých Rolí nebo jako Partner Organizace. Na požádání musíte tyto aktivity pravidelně sdílet, dokud si nebudete jisti, že již nejsou užitečné.
+- **(e) Ukazatele:** Musíte sdílet všechny ukazatele, které zpracováváte ve svých Rolích nebo jako Partner Organizace. Na požádání musíte tyto ukazatele pravidelně sdílet, dokud neurčíte, že již nejsou užitečné.
+- **(f) Aktualizace pokroku:** Musíte sdílet shrnutí pokroku, kterého jste dosáhli ve své Roli nebo směrem k některému z vašich Projektů Role od poslední aktualizace, kterou jste sdíleli. Na požádání musíte tyto aktualizace pravidelně sdílet, dokud neurčíte, že již nejsou užitečné.
+- **(g) Další informace:** Musíte sdílet jakékoliv další informace, které jsou vám snadno dostupné a jejichž sdílení nezpůsobí škodu
 
-As a Partner, you have the duty to provide transparency to Role Leads in the Organization upon their request, as follows:
+### 2.2 Povinnost zpracování
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for the Organization.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Projects or Next-Actions vs. anything else competing for your attention.
-- **(c) Projections:** You must provide a projection of when you expect to complete any of your Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
-- **(f) Progress Updates:** You must share a summary of progress you've made in your Roles or towards any of your Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
-- **(g) Other Information:** You must share any other information that's readily available to you and won't cause harm to share.
+Jako Partner máte povinnost neprodleně zpracovat zprávy a žádosti takto:
 
-### 2.2 Duty of Processing
+- **(a) Žádosti o objasnění:** Ostatní vás mohou požádat o objasnění dalších kroků v rámci některého z vašich Projektů nebo v rámci Odpovědností vašich Rolí. Poté musíte určit a sdělit další kroky, abyste se posunuli vpřed, pokud nějaké můžete podniknout. Pokud neexistují, musíte místo toho sdělit, na co čekáte, než budete moci přijmout.
+- **(b) Žádosti o Projekty a Další akce:** Ostatní vás mohou požádat, abyste se ujali konkrétní Další akce nebo Projektu. Musíte jej přijmout a sledovat, pokud se domníváte, že by mělo smysl na něm pracovat v rámci některé z vašich Rolí nebo jako Partner Organizace, alespoň pokud neexistují konkurenční priority. Pokud ne, pak musíte buď vysvětlit své důvody, nebo navrhnout něco jiného, o čem se domníváte, že místo toho splní cíl žadatele.
+- **(c) Žádosti o ovlivnění Domény:** Ostatní mohou požádat o možnost mít vliv na Doménu kontrolovanou vaší Rolí. Vliv musíte povolit, pokud nevidíte žádný důvod, proč by to snižovalo vaši schopnost naplňovat Záměr nebo Odpovědnosti vaší Role. Pokud takový důvod vidíte, musíte jej žadateli vysvětlit.
 
-As a Partner, you have the duty to promptly process messages and requests from Role Leads in the Organization, as follows:
+### 2.3 Povinnost prioritizace
 
-- **(a) Requests to Clarify:** Others may ask you to clarify the next steps for any of your Projects or for any Accountability of your Roles. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting for before you can take a Next-Action.
-- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project. You must accept and track it if you believe it would make sense to work towards in one of your Roles or as a Partner of the Organization, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else you believe will meet the requester’s goal instead.
-- **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by one of your Roles. You must allow the impact if you see no reason it will reduce your capacity to enact your Role's Purpose or Accountabilities. If you do see such a reason, you must explain it to the requester.
+Jako Partner máte povinnost prioritizovat svou pozornost v souladu s následujícím:
 
-### 2.3 Duty of Prioritization
+- **(a) Zpracování:** Musíte obecně upřednostnit zpracování příchozích zpráv do vašich Rolí od jiných Lídrů Rolí před provedením vlastních Dalších akcí. Můžete však zpracování zpráv odložit, za účelem zpracování zpráv postupně ve vhodnou dobu,  pokud je vaše zpracování stále přiměřeně rychlé. Zpracování znamená plnění povinností popsaných v tomto oddíle a poté na požádání sdílet, jak jste zprávu zpracovali. Zpracování neznamená provedení zaznamenaných Dalších akcí a Projektů.
+- **(b) Schůzky:** Musíte upřednostnit účast na jakékoli schůzce definované v této Ústavě před prováděním vlastních Dalších akcí, ale pouze v případě, že jiný Partner výslovně požádá o upřednostnění konkrétní schůzky. Žádost můžete odmítnout i v případě, když v době schůzky máte již stanovené jiné plány. 
+- **(c) Priority kruhu:** Při rozhodování o tom, na čem budete v rámci Role pracovat, musíte vzít v úvahu všechny oficiální Strategie nebo relativní priority dané Role, jakéhokoli Kruhu, který danou Roli zastává, a jakéhokoli jejího Superkruhu. Tyto oficiální priority pak musíte považovat za důležitější pro Organizaci než své vlastní individuální priority nebo vlastní úsudek o prioritách Organizace. Oficiální priority Kruhu jsou ty, které definoval Lídr Kruhu nebo jiné Role či procesy s pravomocí řešit konflikty priorit a definovat Strategie pro daný Kruh.
+- **(d) Termíny:** Pokud pravidla řízení  nebo jakákoli oficiální Strategie nebo stanovení priorit Kruhu zahrnuje termín určující, kdy se musí být něco provedeno, nikdo to nemůže interpretovat jako mandát ke splnění tohoto termínu bez ohledu na dopad takového jednání. Místo toho to musíte interpretovat jako oficiální stanovení priorit všech akcí potřebných k dosažení daného termínu před jinými akcemi pro daný Kruh a podle toho jednat. Lídr Kruhu nebo jiná Role nebo proces s oprávněním k řešení konfliktů priorit mezi Rolemi může tuto prioritu zrušit.
 
-As a Partner, you have a duty to prioritize your attention in alignment with the following:
+### 2.4 Vztahové dohody
 
-- **(a) Processing:** You must generally prioritize processing inbound messages to your Roles from other Role Leads over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any duties in this Article, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
-- **(b) Meetings:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only when another Partner explicitly requests this prioritization for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
-- **(c) Circle Priorities:** When choosing what to work on in a Role, you must consider any official Strategies or relative prioritizations of that Role, of any Circle holding that Role, and of any Super-Circle thereof. You must then treat these official priorities as more important to the Organization than your own individual priorities or your own judgment of the Organization's priorities. Official priorities of a Circle are those defined by a Circle Lead, or by any other Roles or processes with the authority to resolve priority conflicts and define Strategies for that Circle.
-- **(d) Deadlines:** If the Governance or any official Strategy or prioritization of a Circle includes a deadline specifying when something must be done by, no one may interpret that as a mandate to meet that deadline regardless of the impact of doing so. Instead, you must interpret that as an official prioritization of any actions needed to hit that deadline over any other actions for that Circle, and act accordingly. A Circle Lead or another Role or process with the authority to resolve priority conflicts across Roles may overrule this prioritization.
+Jako Partner můžete mít s ostatními Partnery uzavřeny ***"Vztahové dohody"***. Jedná se o dohody o tom, jak se k sobě budete chovat při práci v Organizaci nebo o tom, jak budete plnit své obecné funkce jako Partneři Organizace. Mohou doplňovat nebo upřesňovat povinnosti uvedené v tomto článku, ale nesmí s nimi být v rozporu.
 
-### 2.4 Relational Agreements
+Vztahové dohody musí zůstat zaměřeny na utváření chování, které je obecně základem práce; nesmí stanovovat očekávání ohledně práce, kterou má Partner v dané Roli vykonat, ani očekávání ohledně toho, jak bude Partner v různých Rolích stanovovat priority. Dále mohou specifikovat pouze konkrétní úkony, které je třeba vykonat, nebo omezení chování, která je třeba dodržovat; nesmí obsahovat sliby dosažení konkrétních výsledků ani ztělesňovat abstraktní vlastnosti.
 
-As a Partner, you may have ***“Relational Agreements”*** with other Partners. These are agreements about how you will relate together while working in the Organization, or about how you will fulfill your general functions as Partners of the Organization. They may add to or clarify the duties in this Article, but they may not conflict with them.
+Jako Partner můžete požádat o vztahovou dohodu jiného Partnera kvůli svým osobním preferencím nebo pro plnění vámi držené Role. Tento Partner může požadovanou Vztahovou dohodu přijmout nebo odmítnout na základě svých osobních preferencí. Pokud není dohodnuto jinak, může kterákoli strana později ukončit Vztahovou dohodu oznámením druhé straně.
 
-Relational Agreements must remain focused on shaping behaviors that generally underpin work; they may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor; they may not include promises to achieve specific outcomes or embody abstract qualities.
+Jako Partner máte povinnost sladit své chování s jakoukoli písemnou Vztahovou dohodou, kterou jste uzavřeli. Každý, kdo pro Organizaci facilituje schůzku nebo proces, se může během této schůzky nebo procesu rovněž odvolávat na tyto Vztahové dohody, pokud nejsou v rozporu s čímkoli definovaným v této Ústavě.
 
-As a Partner, you may request a Relational Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Relational Agreement based on their own personal preferences. Unless otherwise agreed, either party may later terminate the Relational Agreement by notifying the other party.
 
-As a Partner, you have a duty to align your behavior with any written Relational Agreements you have made. Anyone facilitating a meeting or process for the Organization may also enforce these Relational Agreements during that meeting or process, as long as they don't conflict with anything defined in this Constitution.
+## Článek 3: Taktické schůzky
 
+Kterýkoli Partner může svolat ***"Taktickou schůzku"***, aby pomohl Partnerům vzájemně se zapojit do plnění jejich povinností a úkolů. Kromě toho je Tajemník každého Kruhu odpovědný za plánování pravidelných Taktických schůzek Kruhu.
 
-## Article 3: Tactical Meetings
+### 3.1 3.1 Účast
 
-Any Partner may convene a ***“Tactical Meeting”*** to assist Partners in engaging each other in their responsibilities and duties. In addition, the Secretary of each Circle is accountable for scheduling regular Tactical Meetings for the Circle.
+Na pravidelné Taktické schůzky svolávané Tajemníkem Kruhu jsou zvány všechny Role Kruhu, pokud není v Politice uvedeno jinak. U ostatních Taktických schůzek musí Partner svolávající schůzku určit Role, které jsou na danou schůzku pozvány. K účasti a zastupování těchto Rolí jsou pak pozváni všichni Partneři, kteří působí jako Lídři Rolí těchto Rolí, pokud svolavatel nezúží pozvánku tak, aby zahrnovala pouze podmnožinu Lídrů Rolí pro danou Roli.
 
-### 3.1 Attendance
+### 3.2 Proces schůzky
 
-For regular Tactical Meetings convened by a Circle's Secretary, all of the Circle's Roles are invited unless a Policy says otherwise. For other Tactical Meetings, the Partner convening the meeting must specify the Roles invited to that meeting. All Partners serving as Role Leads of those Roles are then invited to attend and represent those Roles, unless the convener narrows the invitation to include only a subset of Role Leads for a Role.
+Facilitátor Kruhu je zodpovědný za facilitaci pravidelných Taktických schůzek Kruhu a Tajemník Kruhu je odpovědný za zachycení a zveřejnění výstupů z Taktických schůzek. V případě Taktických setkání svolávaných někým jiným než Tajemníkem Kruhu musí Partner, který Taktickou schůzku svolává, tuto schůzku facilitovat a zachycovat její  výstupy, nebo k tomu pověřit jiného dobrovolníka či příslušnou Roli.
 
-### 3.2 Meeting Process
+Pokud není v Politice uvedeno jinak, musí osoba facilitující schůzku použít následující postup:
 
-The Facilitator of a Circle is accountable for facilitating the Circle's regular Tactical Meetings, and its Secretary is accountable for capturing and publishing Tactical Meeting outputs. For Tactical Meetings convened by someone other than a Circle's Secretary, the Partner convening a Tactical Meeting must facilitate it and capture its outputs, or appoint another volunteer or appropriate Role to do so.
+- **((a) Úvodní kolečko:** Každý účastník jeden po druhém sdílí svůj aktuální stav nebo vyjádří jiný úvodní komentář ke schůzce. Odpovědi nejsou povoleny.
+- **((b) Revize aktivit:** Každý účastník potvrdí dokončení všech opakujících se akcí, o kterých pravidelně informuje ze své Role na schůzce.
+- **((c) Revize ukazatelů:** Každý účastník sdílí všechny ukazatele, o kterých pravidelně informuje ze svých Rolích na schůzce.
+- **((d) Aktualizace pokroku:** Každý účastník zdůrazní pokrok v jakémkoli Projektu nebo jiné iniciativě, o které pravidelně podává zprávy ze své Role na schůzce. Účastníci mohou sdílet pouze informace o pokroku dosaženého od poslední poskytnuté zprávy, a nikoliv obecný stav Projektu.
+- **((e) Sestavení agendy:** Účastníci sestavují agendu bodů, které mají být v rámci schůzky zpracovány. Každý účastník může přidat libovolný počet bodů agendy tím, že ke každému z nich uvede krátké označení, přičemž není povoleno žádné vysvětlení ani diskuse. Účastníci mohou přidávat další body agendy po tomto kroku, mezi zpracováním všech stávajících bodů agendy.
+- **((f) Roztřídění položek:** Pro zpracování každé položky agendy může vlastník položky agendy vznést požadavky na jiného účastníka, a to buď obecně jako na Partnera, nebo na Roli, kterou tento účastník na schůzce zastupuje. Požadavky na Roli však mohou být podávány pouze ve prospěch Role, kterou žadatel na schůzce zastupuje. Osoba, která schůzku facilituje, řídí čas vyhrazený pro jednotlivé body programu tak, aby byl dán prostor pro celý program, a může přerušit vyřizování jakéhokoliv bodu po uplynutí řádného časového úseku schůzky.
+- **((g) Závěrečné kolo:** Každý účastník jeden po druhém sdílí závěrečné úvahy ze schůzky. Odpovědi nejsou povoleny.
 
-Unless a Policy says otherwise, the person facilitating the meeting must use the following process:
+Politika Kruhu může určit alternativní postup nebo změnit tento výchozí proces pro Taktické schůzky svolané kteroukoli Rolí Kruhu.
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Roles in the meeting.
-- **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Roles in the meeting.
-- **(d) Progress Updates:** Each participant highlights progress in any Project or other initiative that they are regularly reporting on for their Roles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
-- **(e) Build Agenda:** Participants build an agenda of items to process within the meeting. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Items:** To process each agenda item, the agenda item owner may make requests of another participant, either in that participant's general capacity as a Partner, or to a Role that participant represents in the meeting. However, requests to a Role may only be made in service of a Role the requester represents in the meeting. The person facilitating the meeting manages the time allowed for each agenda item to allow space for the entire agenda, and may cut off processing any item after its due share of meeting time.
-- **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
 
-A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
+## Článek 4: Distribuování pravomoci
 
+Jako Lídr Role máte pravomoc podniknout jakoukoliv akci nebo učinit jakékoliv rozhodnutí k naplnění Záměru nebo Odpovědnosti své Role, pokud neporušíte pravidlo definované v této Ústavě. Při určování priorit a výběru mezi svými potenciálními akcemi se můžete řídit vlastním rozumným úsudkem o relativní hodnotě každé z nich pro Organizaci.
 
-## Article 4: Distributed Authority
+### 4.1 Omezení pravomocí
 
-As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution. When prioritizing and choosing among your potential actions, you may use your own reasonable judgment of the relative value to the Organization of each.
+Jako Lídr Role musíte ctít následující omezení svých pravomocí.
 
-### 4.1 Constraints on Authority
+#### 4.1.1 Nedodržení politiky
 
-As a Role Lead, you must honor the following constraints on your authority.
+Při jednání v Roli nesmíte porušovat žádné Politiky samotné Role ani žádného Kruhu obsahujícího tuto Roli.
 
-#### 4.1.1 Don't Violate Policies
+#### 4.1.2 Získání povolení před ovlivněním Domén
 
-While acting in a Role, you may not violate any Policies of the Role itself or of any Circle containing the Role.
+Při naplňování vaší Role máte oprávnění ovlivňovat a ovládat Domény vašich Rolí.
 
-#### 4.1.2 Get Permission Before Impacting Domains
+Můžete také ovlivnit jakoukoliv Doménu, kterou drží Kruh obsahující vaši Roli a která není dále delegována, nebo jakoukoliv Doménu, kterou může ovlivnit samotný Kruh. Pokud se však domníváte, že váš dopad bude značně obtížné nebo nákladné odstranit, musíte získat povolení.
 
-In service of your Role, you have the authority to impact and control your Role's Domains.
+Nesmíte vykonávat kontrolu nebo způsobit podstatný dopad na Doménu delegovanou na Roli nebo Kruh, která neobsahuje vaši Roli, pokud nedostanete povolení. Nesmíte tak činit ani na Doméně vlastněné jiným suverénním subjektem bez povolení.
 
-You may also impact any Domain held by a Circle containing your Role and not further delegated, or any Domain such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need to get permission.
+Pokud potřebujete oprávnění k ovlivnění Domény, můžete je získat od toho, kdo ji ovládá. Povolení můžete získat také tím, že oznámíte svůj úmysl podniknout konkrétní kroky a vyzvete všechny, kteří mají příslušnou Doménu, aby vznesli Námitku. Poté musíte na odpovědi vyčkat přiměřenou dobu. Pokud do té doby nikdo nevznese Námitku, máte oprávnění ovlivňovat všechny Domény vlastněné jakoukoliv Rolí v Organizaci, ke které se vaše oznámení dostalo. Můžete předpokládat, že písemné oznámení se dostalo každému, kdo obvykle čte zprávy v kanálu, který jste použili. Jakékoliv takto udělené povolení platí pouze při provádění konkrétní akce, kterou jste oznámili. Politika může tento proces změnit nebo omezit.
 
-You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
+#### 4.1.3 Získání oprávnění vynaložit prostředky
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement has reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
+Nesmíte vynaložit žádné finance nebo jiná aktiva, pokud k tomu nejprve nezískáte oprávnění. Toto oprávnění musí pocházet z Role, která již má kontrolu nad těmito zdroji pro účely výdajů. Jako výdaj se počítá, pokud se zbavíte významného majetku Organizace, nebo výrazně omezíte některá její práva.
 
-#### 4.1.3 Get Authorization Before Spending Money
+Chcete-li získat oprávnění vynaložit prostředky, musíte svůj úmysl písemně oznámit Roli, od které žádáte povolení. Toto oznámení musíte sdílet, kde jej obvykle uvidí všichni Partneři, kteří jsou Lídři Role dané Role. Vaše prohlášení musí obsahovat odůvodnění vynaložení prostředků a Roli, ze které prostředky hodláte utratit. Potom musíte vyčkat přiměřený čas umožňující zvážení a odpovědi. Kterýkoli příjemce vašeho oznámení může eskalovat výdaje kvůli dalšímu zvážení, během eskalací nebudete moci začít s vynaložením prostředků. Lídr Role nebo Lídr Kruhu cílové Role nebo Kruhu, u kterého žádáte o autorizaci, může eskalaci zvrátit, stejně jako osoba, která ji eskalovala. Jakmile uplyne přiměřená doba a žádná eskalace neobstojí, získává vaše Role kontrolu nad těmito zdroji. Můžete je utratit za stanoveným účelem nebo k tomu dále oprávnit ostatní. Role, od které jste získali toto oprávnění, také ztrácí tuto kontrolu, avšak Lídr Role této Role může oprávnění kdykoli odvolat.
 
-You may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Organization, or significantly limit any of its rights.
+Politika může tento proces jakýmkoli způsobem změnit nebo přímo autorizovat Roli ke kontrole vynakládání prostředků Kruhu.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role you got this authorization from also loses this control, however a Role Lead of that Role may revoke the authorization at any time.
+### 4.2 Výklad pravomoci
 
-A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
+Jako Partner můžete při výkladu této Ústavy a všeho, co spadá pod její pravomoc, používat svůj rozumný úsudek. Dále můžete vykládat, jak se uplatňují v rámci jakékoli konkrétní situace, které čelíte, a jednat na základě svých výkladů. Veškerá pravidla řízení však musíte vykládat v kontextu Záměru a Odpovědnosti Kruhu, který ji obsahuje, a v rámci všech oficiálních výkladových rozhodnutí tohoto Kruhu nebo jeho Superkruhu. Nesmíte používat žádné výklady, které jsou v rozporu s tímto kontextem nebo těmito rozhodnutími.
 
-### 4.2 Interpretation Authority
+#### 4.2.1 Rozpory výkladu
 
-As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and within any official interpretation rulings of that Circle or any Super-Circle thereof. You may not use any interpretations that conflict with that context or those rulings.
+Jako Partner může být váš výklad této Ústavy a řízení Organizace někdy v rozporu s výkladem jiného Partnera. Pokud k tomu dojde, může kterákoli strana požádat Tajemníka kteréhokoli dotčeného Kruhu, aby rozhodl, který výklad má použít, a Tajemník je odpovědný za výklad Ústavy a všeho, co spadá do jeho pravomoci, na základě žádosti. Poté, co Tajemník odpoví, musí se všichni přizpůsobit jeho rozhodnutí, dokud se příslušný text nebo kontext nezmění.
 
-#### 4.2.1 Conflicts of Interpretation
+Po rozhodnutí o výkladu může Tajemník rozhodnutí a jeho logiku zveřejnit. Pokud je zveřejněn, musí se Tajemník daného Kruhu a všechny obsažené Kruhy pokusit přizpůsobit se této logice ve všech budoucích rozhodnutích. Tajemník ji však může rozporovat i poté, co nová přesvědčivá okolnost učiní tuto logiku zastaralou.
 
-As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use, and the Secretary is accountable for interpreting the Constitution and anything under its authority upon request. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
+Proti výkladu Tajemníka se můžete odvolat k Tajemníkovi kteréhokoli Superkruhu. Tajemník Superkruhu může zrušit výklad kteréhokoli Tajemníka Podkruhu.
 
-After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
+#### 4.2.2 Vyškrtnutí neplatného řízení
 
-You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
+Kterýkoli Partner může požádat Tajemníka Kruhu, aby rozhodl o platnosti jakýkoliv Pravidel řízení v rámci tohoto Kruhu nebo jakéhokoli jeho Podkruhu. Pokud Tajemník dojde k závěru, že porušují pravidla této Ústavy, musí ji vyškrtnout z evidence Kruhu. Poté, co tak učiní, musí tajemník neprodleně sdělit, co a proč vyškrtl, všem Partnerům zastávajícím Role v daném Kruhu.
 
-#### 4.2.2 Striking Invalid Governance
+### 4.3 Individuální akce
 
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all Partners filling Roles within that Circle.
+Jako Partner jste v některých případech oprávněni vyvinout ***"Individuální akci"*** tím, že budete jednat nad rámec svých Rolí nebo porušíte pravidla této Ústavy.
 
-### 4.3 Individual Initiative
+#### 4.3.1 Povolené situace
 
-As a Partner, in some cases you are authorized to take ***“Individual Initiative”*** by acting beyond the authority of your Roles or by breaking rules in this Constitution.
+Individuální akci smíte uplatnit pouze v případě, že platí všechny následující skutečnosti:
 
-#### 4.3.1 Allowed Situations
+ **(a)** Jednáte v dobré víře, abyste sloužili Záměru nebo vyjádřili Odpovědnost za nějakou Roli v rámci Organizace.
+ **(b)** Věříte, že by vaše Individuální akce vyřešila nebo zabránila větší Tenzi  pro Organizaci, než by pravděpodobně sama vytvořila.
+ **(c)** Vaše Individuální akce by nezavázala Organizaci k žádným výdajům nad rámec toho, co jste již oprávněni utratit.
+ **(d)** Pokud by vaše Individuální akce porušila jakékoli Politiky nebo Domény, domníváte se, že nemůžete zdržet individuální akci na tak dlouho, abyste si vyžádali povolení nebo změnu pravidel řízení, aniž by došlo ke ztrátě velké hodnoty.
 
-You may only take Individual Initiative when all of the following are true:
+#### 4.3.2 Komunikace & obnova
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
+Po přijetí Individuální akce musíte vysvětlit své kroky všem Lídrům Rolí, o nichž si myslíte, že mohou být významně ovlivněni. Na žádost kteréhokoli takového Lídra Role musíte podniknout další kroky, které vám pomohou vyřešit všechny Tenze vytvořená vaší Individuální akcí. Rovněž se musíte zdržet přijímání podobné Individuální akce na žádost kteréhokoli takového Lídra Role.
 
-#### 4.3.2 Communication & Restoration
+Komunikaci a obnovu vyžadovanou v této části musíte upřednostnit před svou běžnou aktivitou. Avšak Lídr Kruhu v Kruhu, který obsahuje všechny Role ovlivněné vaší akcí, může změnit tuto výchozí prioritu.
 
-Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly impacted. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
 
-You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
+## Článek 5: Pravidla řízen
 
+Změna Pravidel řízení vyžaduje použití zde definovaného ***„Procesu pravidel řízení“***.
 
-## Article 5: Governance Process
+### 5.1 Účastníci procesu řízení
 
-Changing a Circle's Governance requires using the ***“Governance Process”*** defined herein.
+Každý Kruh má skupinu ***„Členů Kruhu“***, kteří mohou zastupovat jeho Role v Procesu řízení.
 
-### 5.1 Governance Participants
+Členy Kruhu jsou ti Partneři, kteří plní Roli Lídra Kruhu, a také každý Partner, který je Lídrem Role v Kruhu. Pokud má Role více Lídrů Rolí, může Kruh přijmout Politiku, která omezí, kolik z nich bude danou Roli zastupovat jako Členové Kruhu v jeho Procesu řízení.
 
-Each Circle has a group of ***"Circle Members"*** who may represent its Roles in its Governance Process.
+#### 5.1.1 Zástupci Kruhu
 
-A Circle's Circle Members are those Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
+Kterýkoli Člen Kruhu může kdykoli požádat o volby a vybrat nebo nahradit někoho jako ***"Zástupce Kruhu"***, aby pomohl zastupovat daný Kruh v rámci širšího Kruhu, který jej zahrnuje. Zvolený Zástupce Kruhu plní v Kruhu ***"Roli Zástupce Kruhu"*** se Záměrem "Tenze relevantní pro proces jsou v širším Kruhu usměrněné a vyřešené" a následujícími Odpovědnostmi:
 
-#### 5.1.1 Circle Reps
+- **(a**) Snažit se pochopit Tenze, které předávají Lídři Rolí v rámci Kruhu.
+- **(b)** Rozpoznávání Tenze vhodné pro proces v rámci širšího Kruhu, v němž se Kruh nachází.
+- **(c)** Zpracování Tenzí v rámci širšího Kruhu s cílem odstranit omezení Kruhu.
+- 
+Kruh musí použít Integrační postup volby zde definovaný k výběru Zástupce Kruhu, pokud Politika nedefinuje alternativní postup. Pouze Členové Kruhu v Kruhu jsou způsobilí sloužit jako jeho Zástupci v Kruhu. Kdokoli, kdo drží Roli Lídr Kruhu v Kruhu, nesmí také držet Roli Zástupce Kruhu. Jako Zástupce Kruhu může současně působit pouze jedna osoba, pokud to Politika obsahujícího Kruhu umožňuje.
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills a ***"Circle Rep Role"*** in the Circle, with a Purpose of "Tensions relevant to process in a broader Circle channeled out and resolved", and the following Accountabilities:
+Vybraný Zástupce Kruhu se stane Členem Kruhu libovolného Kruhu, který obsahuje vnější Roli daného Kruhu, s oprávněním reprezentovat tuto Roli stejně jako Lídr Kruhu. Obsahující Kruh může omezit nebo zabránit těmto Zástupcům Kruhu, aby se stali jeho Členy Kruhu prostřednictvím Politik, ale pouze v případě, že jeho Role mají jiný způsob, jak si použít srovnatelné zastoupení v tomto Kruhu.
 
-- **(a)** Seeking to understand Tensions conveyed by Role Leads within the Circle
-- **(b)** Discerning Tensions appropriate to process within a broader Circle that holds the Circle
-- **(c)** Processing Tensions within a broader Circle to remove constraints on the Circle
+Kruh může přidat Odpovědnost nebo Domény do své vlastní Role Zástupce Kruhu a tyto dodatky upravit nebo odebrat. Žádný Kruh nesmí měnit ani odstraňovat Záměr Role, ani žádné Odpovědnosti, které jsou na tuto Roli kladeny touto Ústavou. 
 
-The Circle must use the Integrative Election Process defined herein to select a Circle Rep, unless a Policy defines an alternate process. Only a Circle's Circle Members are eligible to serve as its Circle Rep. Anyone serving as a Circle Lead for the Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
+#### 5.1.2 Facilitator & Tajemník
 
-The selected Circle Rep becomes a Circle Member of any Circle containing that Circle, with the authority to represent their Circle just like a Circle Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
+Facilitátor Kruhu je odpovědný za facilitování jeho Procesu řízení. Tajemník Kruhu je odpovědný za zachycení a zveřejnění výstupů jeho Procesu řízení a je držitelem Domény Záznamy o řízení Kruhu.
 
-A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of the Role, nor any Accountabilities placed on the Role by this Constitution.
+Kterýkoli Člen Kruhu může kdykoli požádat o volbu, aby vybral nebo nahradil někoho jako Facilitátora nebo Tajemníka Kruhu. Kruh musí k výběru Facilitátora  nebo Tajemníka použít Integrační postup volby zde definovaný. Žádná Role ani Politika nesmí přidělit Roli Facilitátora nebo Tajemníka nebo zrušit přidělení jakýmkoli jiným způsobem, ani měnit tento požadovaný proces. Obvykle jsou jedinými kandidáty způsobilými pro tuto volbu Členové Kruhu. Politika Kruhu nebo jakéhokoli Superkruhu však může přidat nebo omezit způsobilé kandidáty.
 
-#### 5.1.2 Facilitator & Secretary
+### 5.2 Rozsah pravidel řízení
 
-The Circle's Facilitator is accountable for facilitating its Governance Process. The Circle's Secretary is accountable for capturing and publishing the outputs of its Governance Process, and holds a Domain over the Circle's governance records.
+V rámci Pravidel řízení Kruhu mohou Členové Kruhu:
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's Facilitator or Secretary. The Circle must use the Integrative Election Process defined herein to select a Facilitator or Secretary. No Role or Policy may assign the Facilitator Role or Secretary Role or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for this election are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
+- **(a)** definovat, upravovat nebo odstraňovat Role Kruhu; a
+- **(b)** definovat, upravovat nebo odstraňovat Politiky Kruhu; a
+- **(c)** přesunout vlastní Role nebo Politiky Kruhu do Podkruhu nebo do jakéhokoli Podkruhu, ale pouze pokud upraví Záměr nebo Odpovědnost daného Podkruhu; a
+- **(d)** přesouvat Role nebo Politiky z Podkruhu nebo jakéhokoli Podkruhu z něj do Kruhu, ale pouze v případě, že již nejsou relevantní pro upravení Záměru nebo Odpovědnosti daného Podokruhu; a
+- **(e)** pořádat volby pro jakoukoli volenou Roli v Kruhu.
 
-### 5.2 Scope of Governance
+Žádná další rozhodnutí nejsou platnými výstupy procesu řízení Kruhu.
 
-Within a Circle's Governance Process, its Circle Members may:
+#### 5.2.1 Oblast působnosti Politik
 
-- **(a)** define, amend, or remove the Circle's Roles; and
-- **(b)** define, amend, or remove the Circle's Policies; and
-- **(c)** move the Circle's own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Purpose or Accountabilities of that Sub-Circle; and
-- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into the Circle, but only if they are no longer relevant to enacting the Purpose or Accountabilities of that Sub-Circle; and
-- **(e)** hold elections for any elected Role within the Circle.
+Politika může být pouze jedna nebo více z následujících:
 
-No other decisions are valid outputs from a Circle's Governance Process.
+- **a)** omezení pravomocí jedné nebo více obsažených Rolí Kruhu; nebo
+- **b)** udělení oprávnění, které má Kruh nebo Lídři Kruhu k jedné nebo více Rolím; nebo
+- **c)** udělení oprávnění, které umožňuje lidem nebo Rolím, které nejsou jinak oprávněny ovládat nebo ovlivňovat jednu z Domén Kruhu, nebo omezení toho, jak to mohou činit, pokud jsou jinak oprávněni; nebo
+- **d)** pravidlo, které mění výchozí pravidlo nebo proces v této Ústavě, pokud je tato změna výslovně povolena.
 
-#### 5.2.1 Scope of Policy
+Politika, která uděluje nebo omezuje Odpovědnost, platí rekurzivně také ve všech dílčích Kruzích, pokud není uvedeno jinak. Politiky, které mění výchozí pravidlo nebo proces v Ústavě, se použijí pouze v Kruhu, který Politiku obsahuje, nebo, je-li to výslovně uvedeno, také ve všech dílčích Kruzích rekurzivně. V druhém případě může Podkruh tuto Politiku přepsat prostřednictvím jedné ze svých vlastních, pokud to není v původní Politice výslovně zakázáno.
 
-A Policy may only be one or more of the following:
+### 5.3 Změna Procesu řízení
 
-- **(a)** a constraint on the authority of one or more of the Circle's contained Roles; or
-- **(b)** a grant of an authority the Circle or Circle Lead holds to one or more Roles; or
-- **(c)** a grant of authority that allows people or Roles not otherwise authorized to control or impact one of the Circle's Domains, or a constraint on how they may do so when otherwise authorized; or
-- **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
+Kterýkoliv Člen Kruhu může zahájit Proces řízení tím, že navrhne změnu jeho řízení. Aby tak mohl učinit, musí ***Navrhovatel“*** nejprve písemně sdílet ***„Návrh“*** se všemi ostatními Členy Kruhu za použití jakéhokoliv komunikačního kanálu povoleného Tajemníkem. Ostatní Členové Kruhu pak mohou klást vyjasňující otázky, sdílet reakce a vznášet obavy ohledně přijetí Návrhu. Každá obava je ***„Námitkou“***, pokud splňuje zde uvedená kritéria, a osoba, která ji vznesla, je ***„Namitatelem“***.
 
-A Policy that grants or constrains authority applies in all Sub-Circles as well, recursively, unless otherwise stated. A Policy that changes a default rule or process in this Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
+Jakmile každý Člen Kruhu potvrdí, že nemá žádné Námitky proti Návrhu, je Návrh přijat a pozměňuje Pravidla řízení Kruhu. Jsou-li vzneseny Námitky, musí Navrhovatel a každý Namitatel najít způsob, jak se k Námitkám vyjádřit dříve, než Kruh Návrh přijme. Po každém takovém úsilí musí všichni Členové Kruhu dostat další příležitost vznést Námitky. Kruh může přijmout Politiku pro stanovení lhůty pro vznesení Námitek, po jejímž uplynutí se předpokládá, že nikdo, kdo neodpověděl, Námitky nemá. Kdykoli v průběhu zpracování asynchronního Návrhu může kterýkoliv Člen Kruhu požádat Navrhovatele, aby Návrh místo toho přenesl na schůzku ke zpracování v reálném čase. Pokud Politika nestanoví jinak, asynchronní zpracování se poté zastaví a Návrh se považuje za stažený, dokud nebude znovu předložen na schůzce.
 
-### 5.3 Changing Governance
+Při předkládání Návrhů nebo vznášení Námitek může Člen Kruhu zastupovat pouze ty Role v Kruhu, které buď naplňuje jako Lídr Role, nebo zastupuje jako Zástupce Kruhu. Člen Kruhu může také zastupovat Roli, kterou má oprávnění dočasně zastupovat z jednoho z jeho Lídrů Role, dokud toto oprávnění nevyprší nebo nebude odebráno.
 
-Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretary. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
+#### 5.3.1 Požadavky na Návrh
 
-Once each Circle Member confirms they have no Objections to a Proposal, it is adopted and amends the Circle's Governance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle adopts the Proposal. After any such effort, all Circle Members must be given another opportunity to raise Objections. A Circle may adopt a Policy to define a time limit for raising Objections, after which anyone who has not responded is assumed to have no Objections. At any point while the Circle is processing a Proposal asynchronously, any Circle Member may request the Proposer bring the Proposal to a meeting for real-time processing instead. Unless a Policy says otherwise, the asynchronous processing then stops and the Proposal is considered withdrawn until re-proposed at a meeting.
+Aby byl Návrh platný, musí být Navrhovatel schopen:
 
-When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
+- **(a)** popsat Tenzi, kterou by Návrh řešil pro jednu z Rolí Navrhovatele; a
+- **(b)** sdílet příklad skutečné minulé nebo současné situace ilustrující tuto Tenzi; a
+- **c)** přiměřeně vysvětlit, jak by Návrh v uvedeném příkladu snížil Tenzi.
+- 
+Pokud Facilitátor kdykoliv zjistí, že Návrh nesplňuje tato kritéria, musí Návrh zamítnout.
 
-#### 5.3.1 Proposal Requirements
+#### 5.3.2 Požadavky na Námitky
 
-For a Proposal to be valid, the Proposer must be able to:
+Obava z přijetí Návrhu se považuje za Námitku pouze tehdy, může-li Namitatel poskytnout rozumný argument, proč splňuje ***všechna*** tato kritéria:
 
-- **(a)** describe a Tension that the Proposal would address for one of the Proposer's Roles; and
-- **(b)** share an example of an actual past or present situation illustrating that Tension; and
-- **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
+- **a)** Návrh by snížil schopnost Kruhu vyjadřovat jeho Záměr nebo Odpovědnosti.
 
-If at any point it becomes clear to the Facilitator that a Proposal does not meet these criteria, the Facilitator must discard the Proposal.
+- **(b)** Návrh by omezil schopnost Namitatele, naplňovat Záměr nebo Odpovědnost Role, kterou Namitatel v Kruhu, představuje, i kdyby Namitatel nedržel v Organizaci žádné jiné Role.
 
-#### 5.3.2 Objection Requirements
+- **c)** Obava neexistuje ani  případě nepřítomnosti Návrhu. Přijetím Návrhu by tedy byla vytvořena nová Tenze.
 
-A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
+- **(d)** Návrh by nutně způsobil nebo by mohl způsobit dopad, kdy by Kruh neměl adekvátní možnost se přizpůsobit dříve, než by mohlo dojít k významnému poškození.
 
-- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
-- **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
-- **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
+Bez ohledu na výše uvedená kritéria se však obava vždy považuje za Námitku, pokud by přijetí Návrhu porušilo pravidlo v této Ústavě.
 
-However, regardless of the above criteria, a concern always counts as an Objection if adopting the Proposal would violate a rule in this Constitution.
+#### 5.3.3 Testování možných Námitek
 
-#### 5.3.3 Testing Potential Objections
+Facilitátor může otestovat, zda se obava považuje za Námitku, tím, že se Namitatele zeptá, zda obava splňuje požadovaná kritéria a jak. Při hodnocení odpovědí může Facilitátor pouze posoudit, zda Namitatel předložil rozumný argumenty pro každé kritérium. Facilitátor nemůže posuzovat Námitku na základě správnosti argumentu nebo důležitosti řešení.
 
-The Facilitator may test whether a concern counts as an Objection by asking the Objector if the concern meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
+Pokud je vznesena Námitka, protože přijetí Návrhu by porušilo tuto Ústavu, může Facilitátor požádat Tajemníka Kruhu o výklad, zda Návrh skutečně porušuje Ústavu. Pokud Tajemník rozhodne, že tomu tak není, musí Facilitátor Námitku poté zamítnout.
 
-When an Objection is claimed because adopting a Proposal would violate this Constitution, the Facilitator may ask the Circle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
+#### 5.3.4 Pravidla integrace
 
-#### 5.3.4 Rules of Integration
+Při pokusu o vyřešení Námitky platí následující pravidla:
 
-While attempting to resolve an Objection, the following rules apply:
+- **(a)** Facilitátor musí otestovat Námitku, pokud o to požádá kterýkoli Člen Kruhu. Pokud Námitka nesplňuje požadovaná kritéria, musí ij Facilitátor vyřadit.
+- **(b)** Námitatel se musí pokusit najít změnu Návrhu, která vyřeší Námitku a stále bude řešit Tenzi Navrhovatele. Pokud se Facilitátor domnívá, že se Námitel o to v dobré víře nepokouší, musí považovat Námitku za vyřazenou a zamítnout ji.
+- **(c)** Kterýkoli Člen Kruhu může Navrhovateli položit objasňující otázky týkající se Tenze na pozadí Návrhu nebo jakýchkoli příkladů, které Navrhovatel sdílel, za účelem ilustrace Tenze. Pokud je Facilitátor přesvědčen, že Navrhovatel na ně neodpovídá v dobré víře, musí Facilitátor považovat Návrh za vyřaditelný.
+- **d)** Navrhovatel může navrhnout pozměněný Návrh a nabídnout rozumné argumenty, proč by pozměněný Návrh nedokázal vyřešit Tenzi v alespoň jednom z příkladů, které Navrhovatel použil k ilustraci Tenze. V případě potřeby může Navrhovatel přidat další příklad, který ilustruje, proč by pozměněný Návrh nedokázal vyřešit Tenzi. Pokud se Facilitátor domnívá, že Navrhovatel není schopen nebo ochoten tak učinit, musí Facilitátor považovat Návrh za vyřaditelný.
 
-- **(a)** The Facilitator must test an Objection if requested by any Circle Member. If it fails to meet the required criteria, the Facilitator must discard it.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitator believes the Objector is not making a good faith attempt to do so, the Facilitator must deem the Objection abandoned and drop it.
-- **(c)** Any Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
+#### 5.3.5 Integrační postup volby
 
-#### 5.3.5 Integrative Election Process
 
-Any Circle Member may also initiate the Circle's Governance Process by calling for an election for a Circle Rep, Facilitator, or Secretary. The acting Facilitator must then enact the ***“Integrative Election Process”*** as follows:
+Kterýkoliv Člen Kruhu může zahájit Proces řízení tím, že vyzve k volbě Zástupce Kruhu, Facilitátora nebo Tajemníka. Úřadující Facilitátor musí následně provést ***„Integrační postup volby“*** následovně:
 
-- **(a) Describe Role:** First, the Facilitator identifies the target Role and chooses a term for the election. The Facilitator may also present other information relevant to the election. During this step and the next, no one may comment on any potential candidates.
-- **(b) Nominate Candidates:** Each Circle Member uses a ballot or another private forum to name the eligible candidate whom the Circle Member believes is the best fit for the Role. Circle Members must label their ballot with their own name as well, and no one may abstain or nominate multiple people.
-- **(c) Nomination Sharing Round:** During this step, the Facilitator shares each nomination with all Circle Members. For each one, the nominator states why he or she believes their nominee would be a good fit for the Role, and no one else responds. The nominator may not comment on other potential candidates beyond their nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, any Circle Member may change their nomination and explain the reason for the change. No responses are allowed.
-- **(e) Make a Proposal:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each Circle Member who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
-- **(f) Objection Round:** The Facilitator asks each Circle Member if they see any Objections to the Proposal. If any Objections surface, the Facilitator may either allow discussion to attempt to resolve them, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
+- **(a) Popis Role:** Nejprve Facilitátor identifikuje cílovou Roli a období, na které bude volená. Facilitátor může také předložit další informace týkající se voleb. Během tohoto a dalšího kroku nesmí nikdo komentovat žádné potenciální kandidáty.
+- **(b) Nominace kandidátů:** Každý Člen Kruhu použije hlasovací lístek nebo jiné soukromé fórum k nominaci způsobilého kandidáta, o kterém se Člen Kruhu domnívá, že je pro danou Roli nejvhodnější. Členové Kruhu musí také označit svůj hlasovací lístek vlastním jménem a nikdo se nesmí zdržet hlasování nebo nominovat více lidí.
+- **(c) Kolo sdílení nominací:** Během tohoto kroku Facilitátor sdílí každou nominaci se všemi Členy Kruhu. U každého nominátor uvede, proč věří, že jeho kandidát bude pro Role vhodný, nikdo jiný neodpovídá. Nominátor nesmí komentovat další potenciální kandidáty nad rámec svého kandidáta.
+- **(d) Kolo změny nominací:** Jakmile jsou všechny nominace sdíleny, může kterýkoliv Člen Kruhu změnit svou nominaci a vysvětlit důvod této změny. Nejsou povoleny žádné odpovědi.
+- **(e) Podání Návrhu:** Facilitátor spočítá nominace a navrhne volbu kandidáta s nejvíce nominacemi.  V případě rovnosti hlasů může Facilitátor provést některou z těchto akcí: (i)  pokud pouze jeden z vyrovnaných kandidátů nominoval sám sebe, navrhne tuto osobu, nebo ii) jestliže je mezi těmito kandidáty osoba, která momentálně plní volenou Roli, navrhnout tuto osobu, nebo iii) naslepo vybrat náhodně jednoho z kandidátů s vyrovnaným počtem nominací a navrhnout tuto osobu, nebo iv) vrátit se k předchozímu kroku a požádat každého Člena Kruhu, který nominoval někoho jiného než tyto kandidáty, aby změnil tuto nominaci na jednoho z vyrovnaných kandidátů, pak pokračovat zpět na tento krok a postupovat podle daných pravidel.
+- **(f) Kolo Námitek:** Facilitátor se zeptá každého Člena Kruhu, zda mají Námitky proti Návrhu. Pokud se objeví jakékoliv Námitky, může Facilitátor buď umožnit diskusi, aby se je pokusil vyřešit, nebo Návrh vyřadit. Pokud je Návrh vyřazen, musí se poté Facilitátor vrátit k předchozímu kroku v tomto procesu, ignorovat všechny nominace vyřazeného kandidáta a použít pravidla z předchozího kroku, aby místo něho vybral jiného kandidáta.
 
-A Circle may adopt a Policy to define a time limit for nominating a candidate or responding to a Proposal during the Integrative Election Process. After that time limit is reached, the Facilitator must exclude anyone who has not responded from the remainder of the process.
+Kruh může přijmout politiku definující časový limit pro jmenování kandidáta nebo reakci na Návrh během Integračního postupu volby. Po dosažení tohoto časového limitu musí Facilitátor ze zbývající části procesu vyloučit každého, kdo neodpověděl.
 
-The Facilitator of a Circle is accountable for triggering new elections for the Circle's elected Roles after each election term expires.
+Facilitátor Kruhu je odpovědný za spuštění nových voleb do volených Rolí Kruhu po uplynutí každého volebního období.
 
-#### 5.3.6 Surrogates for Facilitator & Secretary
+#### 5.3.6 Náhradník Facilitátora & Tajemníka
 
-A surrogate may act as Facilitator or Secretary while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable when needed, or requests a surrogate for any reason.
+Náhradník může působit jako Facilitátor nebo Tajemník, dokud není Role obsazena. Náhradník může také zaskočit v případě, že obvyklý Facitátor nebo Tajemník není v případě potřeby k dispozici, nebo je-li  jakéhokoli důvodu náhradník vyžádán.
 
-Whenever a surrogate is needed, the surrogate is, in this order of precedence:
+Kdykoli je náhradník nutný, je náhradníkem v tomto pořadí:
 
-- **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
-- **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
-- **(d)** the first Circle Member to declare themselves acting as surrogate.
+- **(a)** někdo určený osobou, která má být nahrazena; nebo
+- **(b)** za Facilitátora, úřadující Tajemník Kruhu, a za Tajemníka, úřadující Facilitátor kruhu;
+- **(c)** Lídr Kruhu, nebo, pokud existuje více Lídrů Kruhů, první, který prohlásí, že jedná jako náhradník; nebo
+- **(d)** první Člen Kruhu, který prohlásí, že jedná jako náhradník.
 
-### 5.4 Governance Meetings
+### 5.4 Organizační schůzky
 
-In addition to processing Proposals made asynchronously outside of meetings, each Circle will also hold regular ***"Governance Meetings"*** to enact the Circle’s Governance Process in real time.
+Kromě zpracování Návrhů podaných asynchronně mimo Organizační schůzky pořádá každý Kruh také pravidelné ***„Organizační schůzky“***, aby se Proces řízení v Kruhu uskutečnil v reálném čase. 
 
-The Circle's Secretary is accountable for scheduling its Governance Meetings. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+Za plánování Organizačních schůzek je odpovědný Tajemník Kruhu. Kromě všech pravidelně plánovaných Organizačních schůzek musí Tajemník na žádost kteréhokoliv Člena Kruhu neprodleně naplánovat mimořádnou Organizační schůzku. Žadatel může dále specifikovat záměr mimořádné Organizační schůzky a případné omezení toho, co může Organizační schůzka měnit. To může zahrnovat zaměření schůzky na konkrétní Tenzi nebo omezení pouze na změnu určitých Rolí. V takovém případě je pravomoc této mimořádné Organizační schůzky omezena pouze na zpracování Návrhů pro uvedený záměr a provádění změn pouze v rámci uvedených limitů.
 
-#### 5.4.1 Attendance
+#### 5.4.1 Účast
 
-All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
+Organizační schůzky se mohou účastnit všichni Členové Kruhu. Úřadující Facilitátor a Tajemník se mohou také zúčastnit, i když nejsou Členy Kruhu. V takovém případě se stanou dočasnými Členy Kruhu po dobu trvání schůzky.
 
-As a Circle Rep for a Circle, you may invite any Partner to join the Governance Meeting of any Circle immediately containing your Circle. You may only extend this invitation to one Partner at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. Your invited guest becomes a temporary Circle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Circle along with you in the meeting, but only while processing that specific Tension.
+Jako Zástupce Kruhu pro Kruh můžete pozvat kteréhokoli Partnera, aby se připojil k Organizační schůzce jakéhokoli Kruhu, který váš Kruh bezprostředně obsahuje. Tuto pozvánku můžete rozšířit pouze na jednoho Partnera najednou, a to pouze na pomoc při zpracování konkrétní Tenze ovlivňující Kruh, který zastupujete. Musíte také cítit tuto Tenzi sami a věřit, že má smysl zpracovávat ji v Kruhu. Vámi pozvaný host se stane dočasným Členem Kruhu po dobu trvání schůzky, nebo dokud pozvánku nezrušíte. Váš host může na schůzce zastupovat váš Kruh spolu s vámi, ale pouze při zpracování dané konkrétní Tenze.
 
-Beyond the above, no one else may participate in a Circle’s Governance Meetings.
+Kromě výše uvedeného se Organizačních schůzek nemůže účastnit nikdo jiný.
 
-#### 5.4.2 Notice & Duration
+#### 5.4.2 Oznámení & průběh
 
-A Circle may only conduct a Governance Meeting if the Secretary gave all Circle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Circle to conduct a Governance Meeting, unless a Policy specifies one.
+Kruh může uspořádat Organizační schůzku pouze tehdy, pokud Tajemník o této schůzce předem informoval všechny Členy Kruhu. Kromě toho není pro Kruh vyžadován usnášeníschopný počet, aby se Organizační schůzka uskutečnila, pokud to Politika neurčí.
 
-Governance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Circle Member requests otherwise.
+Organizační schůzka končí, jakmile dosáhne Tajemníkem původně plánované doby. Tajemník se může rozhodnout prodloužit dobu trvání schůzky, ale pouze v případě, že žádný Člen Kruhu nepožádá o opak.
 
-Any Circle Member who misses part or all of a Governance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Circle may adopt Proposals in a Governance Meeting without regard for absent members.
+Kterýkoli Člen Kruhu, který zmešká část nebo celou Organizační schůzku, se považuje za osobu, která měla příležitost vznést obavy ohledně jakýchkoliv Návrhů v ní uvedených. Kruh tedy může přijímat Návrhy na Organizační schůzce bez ohledu na nepřítomné členy.
 
-#### 5.4.3 Meeting Process
+#### 5.4.3 Proces schůzky
 
-The Facilitator must use the following process for Governance Meetings:
+Facilitátor musí pro Organizační schůzku použít následující proces:
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(c) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+- **(a) Úvodní kolo:** Každý účastník jeden po druhém sdílí svůj aktuální stav nebo vyjádří jiný úvodní komentář ke schůzce. Odpovědi nejsou povoleny.
+- **(b) Sestavení a zpracování agendy:** Facilitátor sestaví agendu Tenzí ke zpracování a poté postupně zpracovává každou položku agendy.
+- **(c) Závěrečné kolo:** Každý účastník jeden po druhém sdílí závěrečné úvahy schůzky. Odpovědi nejsou povoleny.
 
-At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitator may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitator may end a Time Out at any point and resume the normal meeting process.
+V kterémkoli okamžiku tohoto procesu může účastník požádat o pauzu ***„Time Out“***. Facilitátor se může rozhodnout této žádosti vyhovět nebo ji zamítnout. Během Time Outu mohou účastníci diskutovat o Pravidlech řízení nebo pravidlech této Ústavy. Time Out nesmí být použit za účelem vyřešení Tenze, Návrhu nebo Námitky. Facilitátor může kdykoli ukončit Time Out a pokračovat v běžném procesu schůzky.
 
-A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article.
+Politika Kruhu může tento proces doplnit, ale nesmí být v rozporu s žádnými pravidly nebo požadavky definovanými v tomto článku Ústavy.
 
-#### 5.4.4 Agenda Building
+#### 5.4.4 Sestavení agendy
 
-The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
+Facilitátor sestaví agendu Tenzí ke zpracování tím, že získá položky agendy od všech účastníků. Facilitátor to musí provést na schůzce, nikoli předem. Každý účastník může přidat libovolný počet položek agendy tím, že každému poskytne krátký popisek, aniž by bylo povoleno vysvětlení nebo diskuse. Účastníci mohou během schůzky přidat další položky agendy, a to mezi zpracováním jakýchkoli stávajících položek agendy.
 
-For a regular Governance Meeting, the Facilitator may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Governance Meeting scheduled on request of a participant, that participant may choose the agenda order.
+Pro pravidelné Organizační schůzky může Facilitátor zvolit pořadí, ve kterém bude zpracovávat položky agendy. Na žádost účastníka schůzky však musí být každý bod agendy, který vyžaduje volbu, předřazen všem ostatním. U mimořádné Organizační schůzky naplánované na žádost účastníka si tento účastník může zvolit pořadí agendy.
 
-Agenda items are processed one at a time. To process a request for an election, the Facilitator uses the Integrative Election Process. To process anything else, the Facilitator uses the Integrative Decision-Making Process defined below.
+Položky agendy se zpracovávají po jedné. Pro zpracování žádosti o volby využije Facilitátor Integrační postup volby. Pro zpracování jakéhokoliv jiného bodu agendy Facilitátor použije Integrační rozhodovací proces definovaný níže.
 
-#### 5.4.5 Integrative Decision-Making Process
+#### 5.4.5 Integrační rozhodovací proces
 
-The Facilitator must enact the ***“Integrative Decision-Making Process”*** as follows:
+Facilitátor musí provést ***„Integrační rozhodovací proces“*** následovně:
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitator may allow others to help craft a Proposal. However, the Facilitator must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitator must disallow discussing other Tensions or concerns about the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
-- **(d) Option to Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise concerns about adopting the Proposal. The Facilitator must either capture these concerns as Objections, or test them to see if they meet the Objection criteria and capture any that do. If there are no Objections, the Proposal is adopted. While testing concerns and capturing Objections, the Facilitator must stop and disallow discussion or responses of any kind from anyone other than the Objector.
-- **(f) Integration:** If there are Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential amendment to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
+- **(a) Předkládaný návrh:** Navrhovatel může nejprve popsat Tenzi a předložit Návrh na její řešení. Na žádost Navrhovatele může Facilitátor umožnit ostatním, aby mu pomohli s vypracováním Návrhu. Facilitátor však musí tuto pomoc zaměřit pouze na získání počátečního Návrhu, který řeší Tenzi Navrhovatele. Facilitátor nesmí připustit projednávat dalších Tenze nebo obavy z Návrhu.
+- **(b) Upřesňující otázky:** Jakmile Navrhovatel podá Návrh, mohou ostatní klást otázky, aby lépe porozuměli Návrhu nebo Tenzi, která stojí v pozadí. Navrhovatel může odpovědět na každou otázku nebo je může odmítnout. Facilitátor musí zastavit jakékoliv reakce nebo názory vyjádřené k Návrhu a zabránit jakékoliv diskuzi. Účastníci mohou také požádat Tajemníka, aby přečetl Návrh nebo vysvětlil jakékoli stávající pravidlo řízení, a to v průběhu tohoto kroku nebo v jakémkoli jiném okamžiku, kdy má účastník možnost promluvit, a Tajemník tak musí učinit.
+- **(c) Kolo reakcí:** Každý účastník může kromě Navrhovatele sdílet reakce na Návrh, jeden po druhém. Facilitátor musí okamžitě zastavit jakékoliv komentáře mimo pořadí, jakékoli pokusy zapojit ostatní do dialogu a jakékoliv reakce na jiné reakce namísto reakcí k Návrhu.
+- **(d) Možnosti upřesnění:** Dále může Navrhovatel sdílet připomínky k reakcím a provádět změny Návrhu. Primárním záměrem jakýkoliv změn však musí být lepší řešení Tenze Navrhovatele a nikoli Tenze, které vznášejí ostatní. Facilitátor musí okamžitě zastavit komentáře kohokoliv jiného než Navrhovatele nebo Tajemníka. Jakákoli angažovanost Tajemníka se musí soustředit pouze na zachycení pozměněného Návrhu.
+- **e) Kolo Námitek:** Poté může každý účastník, jeden po druhém, vznést Námitky týkající se přijetí Návrhu. Facilitátor musí tyto obavy buď zachytit jako Námitky, nebo otestovat zda splňují kritéria Námitek a všechny, které je splňují, zachytit. Pokud nejsou žádné Námitky, je Návrh přijat. Během testování obav a zachycování Námitek musí Facilitátor zastavit a zakázat diskusi nebo jakékoliv odpovědi od kohokoliv jiného, než je Namitatel.
+- **(f) Integrace:** Pokud existují Námitky, potom se Facilitátor zaměřuje na každou jednotlivě. U každé Námitky  účastníci hledají řešení v možné změnu Návrhu, která povede k vyřešení Námitky. Facilitátor označí Námitku za vyřešenou, jakmile Námitatel potvrdí, že pozměněný Návrh u něj nevyvolává Námitku, a Navrhovatel potvrdí, že stále řeší jeho Tenzi. Během tohoto kroku musí Facilitátor uplatnit pravidla integrace popsaná v tomto článku. Jakmile jsou všechny Námitky vyřešeny, Facilitátor se vrátí zpět do kola Námitek s pozměněným Návrhem.
 
-### 5.5 Process Breakdown
+### 5.5 Zhroucení procesu 
 
-A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment. Any concerned Partner may further request a Facilitator review a Sub-Circle to look for a potential Process Breakdown, and the Facilitator is accountable for auditing a Sub-Circle's meetings and records on request and declaring a Process Breakdown if one is discovered.
+***"Zhroucení procesu"*** nastane, když Kruh vykazuje vzorec chování nebo výstupu, který porušuje pravidla této Ústavy. Facilitátor nebo Tajemník Kruhu může na základě svého rozumného úsudku vyhlásit Zhroucení procesu ve svém vlastním Kruhu nebo v jakémkoli Podkruhu. Kterýkoli zainteresovaný Partner může dále požádat Facilitátora o přezkoumání Podkruhu za účelem vyhledání možného porušení procesu a Facilitátor je odpovědný za to, že na požádání provede audit schůzek a záznamů Podkruhu a v případě zjištění porušení procesu jej vyhlásí.
 
-#### 5.5.1 Breakdown from Failed Governance
+#### 5.5.1 Zhroucení procesu v důsledku neúspěšného Procesu řízení
 
-A Circle's Facilitator may also declare a Process Breakdown in the Circle if a Proposal fails to reach a resolution after those involved spend a reasonable amount of time and effort seeking resolution.
+Facilitátor Kruhu může také vyhlásit Zhroucení procesu v Kruhu, pokud se nepodaří dosáhnout řešení Návrhu poté, co zúčastněné strany věnovaly přiměřené množství času a úsilí hledání řešení.
 
-#### 5.5.2 Process Restoration
+#### 5.5.2 Obnovení procesu
 
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
+Kdykoli oprávněná strana vyhlásí zhroucení procesu v Kruhu, dojde k následujícímu:
 
-- **(a)** the Facilitator gains the authority to judge the logic and relevance of any arguments made to validate Proposals or Objections in the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
-- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead supersede and prevent any conflicting decisions by another Circle Lead.
+- **(a)** Facilitátor získá pravomoc posuzovat logiku a relevanci jakýchkoli argumentů předložených za účelem potvrzení platnosti Návrhů nebo Námitek v Kruhu; a
+- **(b)** Facilitátor Superkruhu získá Projekt na obnovu řádného procesu v Kruhu; a
+- **(c)** Facilitátor Superkruhu získá pravomoc převzít funkci jako Facilitátor nebo Tajemník Kruhu; a
+- **(d)** Facilitátor Superkruhu může přidělit dodatečného Lídra Kruhu do Kruhu po dobu Zhroucení procesu. Jakékoli rozhodnutí, která osoba učiní jako Lídr Kruhu, zvítězí a zabrání jakémukoli konfliktnímu rozhodnutí jiného Lídra Kruhu.
 
-These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
+Tyto pravomoci končí, jakmile je v Kruhu obnoven řádný proces, dle vyhodnocení Facilitátora Superkruhu.
 
-If the Circle in Process Breakdown has no Super-Circle, then the powers above all vest with its own Facilitator instead.
+Pokud Kruh ve Zhrouceném procesu nemá žádný Superkruh, pak jsou pravomoci svěřeny jeho vlastnímu Facilitátorovi.
 
-#### 5.5.3 Escalation of Process Breakdown
+#### 5.5.3 Eskalace Zhroucení procesu
 
-A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
+Zhroucení procesu v jednom Kruhu se automaticky nepovažuje za Zhroucení procesu v jeho Superkruhu. Nicméně pokud není Zhroucení procesu vyřešeno v rozumném časovém období, pak je Zhroucení procesu považováno i v Superkruhu.
 
 ---
 
