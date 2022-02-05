@@ -19,7 +19,7 @@ Každý Partner se může dovolávat pravomocí udělených touto Ústavou v pln
 
 Definice Role se skládá z popisného názvu a jednoho nebo více z následujících údajů:
 
-- **(a)** ***“Záměr”***, což je schopnost, potenciál, nebo cíl, který Role sleduje nebo vyjadřuje.
+- **(a)** ***“Poslání”***, což je schopnost, potenciál, nebo cíl, který Role sleduje nebo vyjadřuje.
 - **(b)** jedna nebo více ***“Domén”***, což jsou aktiva, procesy nebo jiné věci, které může Role pro svůj Záměr výhradně kontrolovat a regulovat jako svůj majetek.
 - **(c)** jedna nebo více ***“Odpovědností”***, což jsou průběžné aktivity, které Role řídí a přijímá je jako službu jiným Rolí nebo na podporu svého Záměru.
 
@@ -31,9 +31,9 @@ Jako Lídr Role máte následující povinnosti:
 
 #### 1.2.1 Zpracovávat tenze
 
-Vaší odpovědností je porovnávat skutečné vyjádření Záměru a Odpovědností vaší Role s vaší vizí jejich ideálního potenciálu a identifikovat rozdíly mezi nimi (každý rozdíl je ***„Tenze“*** ). Vaší odpovědností je pokusit se tyto tenze vyřešit.
+Vaší odpovědností je porovnávat skutečné vyjádření Poslání a Odpovědností vaší Role s vaší vizí jejich ideálního potenciálu a identifikovat rozdíly mezi nimi (každý rozdíl je ***„Tenze“*** ). Vaší odpovědností je pokusit se tyto tenze vyřešit.
 
-#### 1.2.2 Zpracovávat Záměr & Odpovědnosti
+#### 1.2.2 Zpracovávat Poslání & Odpovědnosti
 
 Vaší odpovědností je pravidelně zvažovat, jak naplňovat Záměr vaší Role a každou Odpovědnost, a to definováním:
 
@@ -53,7 +53,7 @@ Kdykoli máte  prostor jednat v Roli, jste odpovědní za zvážení Dalších a
 
 ### 1.3 Kruhy
 
-A ***“Kruh”*** je seskupení Rolí a politik Organizace kolem společného Záměru. Role a politiky v rámci Kruhu tvoří jeho aktivní ***„Pravidla řízení”***.
+A ***“Kruh”*** je seskupení Rolí a politik Organizace kolem společného Poslání. Role a politiky v rámci Kruhu tvoří jeho aktivní ***„Pravidla řízení”***.
 
 #### 1.3.1 Členění Rolí
 
@@ -88,11 +88,11 @@ Kruh může zrušit propojení Role odstraněním politiky, která jej vyzvala k
 Každý Kruh může jmenovat kohokoliv ***"Facilitátorem"*** Kruhu. Zvolený Facilitátor plní v Kruhu ***"Roli Facilitátora"*** se Záměrem "Pravidla řízení a provozní postupy kruhu jsou v souladu s Ústavou".
 Každý kruh k může kohokoliv jmenovat ***"Tajemníkem"*** Kruhu. Zvolený tajemník plní v Kruhu ***"Roli Tajemníka"*** se Záměrem Stabilizovat Ústavou požadované záznamy a schůzky Kruhu". 
 
-Kruh může ke své vlastní Roli Facilitátora nebo Tajemníka přidávat Odpovědnosti nebo Domény, stejně jako tyto doplňky měnit nebo odebírat. Žádný Kruh nesmí měnit ani odstraňovat Záměr žádné z těchto Rolí, ani žádné Odpovědnosti nebo Domény, které jsou těmto Rolím svěřeny touto Ústavou.
+Kruh může ke své vlastní Roli Facilitátora nebo Tajemníka přidávat Odpovědnosti nebo Domény, stejně jako tyto doplňky měnit nebo odebírat. Žádný Kruh nesmí měnit ani odstraňovat Poslání žádné z těchto Rolí, ani žádné Odpovědnosti nebo Domény, které jsou těmto Rolím svěřeny touto Ústavou.
 
 ### 1.4 Lídr Kruhu
 
-Sloužit jako Lídr Role znamená také sloužit jako ***"Lídr Kruhu"*** v rámci interního Kruhu dané Role, a tedy plnit ***"Roli Lídra Kruhu"*** v rámci tohoto Kruhu. Role Lídr Kruhu zastává celkový Záměr této širší Role a všechny Odpovědnosti v rámci této Role, pokud nejsou pokryty jinými Rolemi nebo procesy v rámci Kruhu.
+Sloužit jako Lídr Role znamená také sloužit jako ***"Lídr Kruhu"*** v rámci interního Kruhu dané Role, a tedy plnit ***"Roli Lídra Kruhu"*** v rámci tohoto Kruhu. Role Lídr Kruhu zastává celkové Poslání této širší Role a všechny Odpovědnosti v rámci této Role, pokud nejsou pokryty jinými Rolemi nebo procesy v rámci Kruhu.
 
 Kotevní Kruh nemá žádného Lídra Kruhu, pokud Politika Kruhu nestanoví jinak.
 
@@ -100,7 +100,7 @@ Kotevní Kruh nemá žádného Lídra Kruhu, pokud Politika Kruhu nestanoví jin
 
 Lídr Kruhu přiděluje jakékoliv Role v Kruhu komukoli, kdo je ochoten je naplňovat, a to i více osobám současně. Každý, kdo je takto přiřazen, může později od držení Role odstoupit, pokud se nedohodl jinak. Lídr Kruhu může také kdykoli zrušit přidělení jakékoli Role v rámci Kruhu.
 
-Lídr Kruhu může přidělení Role dále zaměřit pouze na určitý kontext. Aby tak mohl učinit, musí být celá definice Role v daném kontextu stále relevantní. Při použití zaměření se každé přiřazené zaměření chová jako samostatná Role. Záměr, Domény a Odpovědnosti Role jsou stále platné, ale pouze v rámci přiřazeného přiřazení.
+Lídr Kruhu může přidělení Role dále zaměřit pouze na určitý kontext. Aby tak mohl učinit, musí být celá definice Role v daném kontextu stále relevantní. Při použití zaměření se každé přiřazené zaměření chová jako samostatná Role. Poslání, Domény a Odpovědnosti Role jsou stále platné, ale pouze v rámci přiřazeného přiřazení.
 
 Nikdo jiný než Lídr Kruhu nesmí v rámci Kruhu přiřadit Roli nebo zrušit přiřazení Role, pokud Kruh nepředal přidělování Rolí jiné Roli nebo procesu. Politika může přiřazování nebo odebírání Rolí dále omezit.
 
@@ -120,7 +120,7 @@ Kdykoli Pravidla řízení mimo Kruh odkazují na Kruh samotný nebo na jakoukol
 
 #### 1.4.5 Úprava Role Lídr Kruhu
 
-ruh nesmí upravovat Záměr Role svého Lídra Kruhu ani Roli odstranit.
+Kruh nesmí upravovat Poslání Role svého Lídra Kruhu ani Roli odstranit.
 
 Kruh může do Role Lídra Kruhu přidat Odpovědnosti nebo Domény a později tyto dodatky odstranit. Jakékoli dodatky se však automaticky použijí také na každou Roli Lídra Kruhu Podkruhu rekurzivně. Kruh nesmí přidávat Odpovědnosti nebo Domény pouze do své vlastní Role Lídra Kruhu nebo do jakékoli Role relevantní pouze v rámci tohoto Kruhu.
 
@@ -147,7 +147,7 @@ Jako Partner máte povinnost neprodleně zpracovat zprávy a žádosti takto:
 
 - **(a) Žádosti o objasnění:** Ostatní vás mohou požádat o objasnění dalších kroků v rámci některého z vašich Projektů nebo v rámci Odpovědností vašich Rolí. Poté musíte určit a sdělit další kroky, abyste se posunuli vpřed, pokud nějaké můžete podniknout. Pokud neexistují, musíte místo toho sdělit, na co čekáte, než budete moci přijmout.
 - **(b) Žádosti o Projekty a Další akce:** Ostatní vás mohou požádat, abyste se ujali konkrétní Další akce nebo Projektu. Musíte jej přijmout a sledovat, pokud se domníváte, že by mělo smysl na něm pracovat v rámci některé z vašich Rolí nebo jako Partner Organizace, alespoň pokud neexistují konkurenční priority. Pokud ne, pak musíte buď vysvětlit své důvody, nebo navrhnout něco jiného, o čem se domníváte, že místo toho splní cíl žadatele.
-- **(c) Žádosti o ovlivnění Domény:** Ostatní mohou požádat o možnost mít vliv na Doménu kontrolovanou vaší Rolí. Vliv musíte povolit, pokud nevidíte žádný důvod, proč by to snižovalo vaši schopnost naplňovat Záměr nebo Odpovědnosti vaší Role. Pokud takový důvod vidíte, musíte jej žadateli vysvětlit.
+- **(c) Žádosti o ovlivnění Domény:** Ostatní mohou požádat o možnost mít vliv na Doménu kontrolovanou vaší Rolí. Vliv musíte povolit, pokud nevidíte žádný důvod, proč by to snižovalo vaši schopnost naplňovat Poslání nebo Odpovědnosti vaší Role. Pokud takový důvod vidíte, musíte jej žadateli vysvětlit.
 
 ### 2.3 Povinnost prioritizace
 
@@ -196,7 +196,7 @@ Politika Kruhu může určit alternativní postup nebo změnit tento výchozí p
 
 ## Článek 4: Distribuování pravomoci
 
-Jako Lídr Role máte pravomoc podniknout jakoukoliv akci nebo učinit jakékoliv rozhodnutí k naplnění Záměru nebo Odpovědnosti své Role, pokud neporušíte pravidlo definované v této Ústavě. Při určování priorit a výběru mezi svými potenciálními akcemi se můžete řídit vlastním rozumným úsudkem o relativní hodnotě každé z nich pro Organizaci.
+Jako Lídr Role máte pravomoc podniknout jakoukoliv akci nebo učinit jakékoliv rozhodnutí k naplnění Poslání nebo Odpovědnosti své Role, pokud neporušíte pravidlo definované v této Ústavě. Při určování priorit a výběru mezi svými potenciálními akcemi se můžete řídit vlastním rozumným úsudkem o relativní hodnotě každé z nich pro Organizaci.
 
 ### 4.1 Omezení pravomocí
 
@@ -226,7 +226,7 @@ Politika může tento proces jakýmkoli způsobem změnit nebo přímo autorizov
 
 ### 4.2 Výklad pravomoci
 
-Jako Partner můžete při výkladu této Ústavy a všeho, co spadá pod její pravomoc, používat svůj rozumný úsudek. Dále můžete vykládat, jak se uplatňují v rámci jakékoli konkrétní situace, které čelíte, a jednat na základě svých výkladů. Veškerá pravidla řízení však musíte vykládat v kontextu Záměru a Odpovědnosti Kruhu, který ji obsahuje, a v rámci všech oficiálních výkladových rozhodnutí tohoto Kruhu nebo jeho Superkruhu. Nesmíte používat žádné výklady, které jsou v rozporu s tímto kontextem nebo těmito rozhodnutími.
+Jako Partner můžete při výkladu této Ústavy a všeho, co spadá pod její pravomoc, používat svůj rozumný úsudek. Dále můžete vykládat, jak se uplatňují v rámci jakékoli konkrétní situace, které čelíte, a jednat na základě svých výkladů. Veškerá pravidla řízení však musíte vykládat v kontextu Poslání a Odpovědnosti Kruhu, který ji obsahuje, a v rámci všech oficiálních výkladových rozhodnutí tohoto Kruhu nebo jeho Superkruhu. Nesmíte používat žádné výklady, které jsou v rozporu s tímto kontextem nebo těmito rozhodnutími.
 
 #### 4.2.1 Rozpory výkladu
 
@@ -248,7 +248,7 @@ Jako Partner jste v některých případech oprávněni vyvinout ***"Individuál
 
 Individuální akci smíte uplatnit pouze v případě, že platí všechny následující skutečnosti:
 
- **(a)** Jednáte v dobré víře, abyste sloužili Záměru nebo vyjádřili Odpovědnost za nějakou Roli v rámci Organizace.
+ **(a)** Jednáte v dobré víře, abyste sloužili Poslání nebo vyjádřili Odpovědnost za nějakou Roli v rámci Organizace.
  **(b)** Věříte, že by vaše Individuální akce vyřešila nebo zabránila větší Tenzi  pro Organizaci, než by pravděpodobně sama vytvořila.
  **(c)** Vaše Individuální akce by nezavázala Organizaci k žádným výdajům nad rámec toho, co jste již oprávněni utratit.
  **(d)** Pokud by vaše Individuální akce porušila jakékoli Politiky nebo Domény, domníváte se, že nemůžete zdržet individuální akci na tak dlouho, abyste si vyžádali povolení nebo změnu pravidel řízení, aniž by došlo ke ztrátě velké hodnoty.
@@ -272,7 +272,7 @@ Každý Kruh má skupinu ***„Členů Kruhu“***, kteří mohou zastupovat jeh
 
 #### 5.1.1 Zástupci Kruhu
 
-Kterýkoli Člen Kruhu může kdykoli požádat o volby a vybrat nebo nahradit někoho jako ***"Zástupce Kruhu"***, aby pomohl zastupovat daný Kruh v rámci širšího Kruhu, který jej zahrnuje. Zvolený Zástupce Kruhu plní v Kruhu ***"Roli Zástupce Kruhu"*** se Záměrem "Tenze relevantní pro proces jsou v širším Kruhu usměrněné a vyřešené" a následujícími Odpovědnostmi:
+Kterýkoli Člen Kruhu může kdykoli požádat o volby a vybrat nebo nahradit někoho jako ***"Zástupce Kruhu"***, aby pomohl zastupovat daný Kruh v rámci širšího Kruhu, který jej zahrnuje. Zvolený Zástupce Kruhu plní v Kruhu ***"Roli Zástupce Kruhu"*** s Posláním "Tenze relevantní pro proces jsou v širším Kruhu usměrněné a vyřešené" a následujícími Odpovědnostmi:
 
 - **(a**) Snažit se pochopit Tenze, které předávají Lídři Rolí v rámci Kruhu.
 - **(b)** Rozpoznávání Tenze vhodné pro proces v rámci širšího Kruhu, v němž se Kruh nachází.
@@ -282,7 +282,7 @@ Kruh musí použít Integrační postup volby zde definovaný k výběru Zástup
 
 Vybraný Zástupce Kruhu se stane Členem Kruhu libovolného Kruhu, který obsahuje vnější Roli daného Kruhu, s oprávněním reprezentovat tuto Roli stejně jako Lídr Kruhu. Obsahující Kruh může omezit nebo zabránit těmto Zástupcům Kruhu, aby se stali jeho Členy Kruhu prostřednictvím Politik, ale pouze v případě, že jeho Role mají jiný způsob, jak si použít srovnatelné zastoupení v tomto Kruhu.
 
-Kruh může přidat Odpovědnost nebo Domény do své vlastní Role Zástupce Kruhu a tyto dodatky upravit nebo odebrat. Žádný Kruh nesmí měnit ani odstraňovat Záměr Role, ani žádné Odpovědnosti, které jsou na tuto Roli kladeny touto Ústavou. 
+Kruh může přidat Odpovědnost nebo Domény do své vlastní Role Zástupce Kruhu a tyto dodatky upravit nebo odebrat. Žádný Kruh nesmí měnit ani odstraňovat Poslání Role, ani žádné Odpovědnosti, které jsou na tuto Roli kladeny touto Ústavou. 
 
 #### 5.1.2 Facilitator & Tajemník
 
@@ -296,8 +296,8 @@ V rámci Pravidel řízení Kruhu mohou Členové Kruhu:
 
 - **(a)** definovat, upravovat nebo odstraňovat Role Kruhu; a
 - **(b)** definovat, upravovat nebo odstraňovat Politiky Kruhu; a
-- **(c)** přesunout vlastní Role nebo Politiky Kruhu do Podkruhu nebo do jakéhokoli Podkruhu, ale pouze pokud upraví Záměr nebo Odpovědnost daného Podkruhu; a
-- **(d)** přesouvat Role nebo Politiky z Podkruhu nebo jakéhokoli Podkruhu z něj do Kruhu, ale pouze v případě, že již nejsou relevantní pro upravení Záměru nebo Odpovědnosti daného Podokruhu; a
+- **(c)** přesunout vlastní Role nebo Politiky Kruhu do Podkruhu nebo do jakéhokoli Podkruhu, ale pouze pokud upraví Poslání nebo Odpovědnost daného Podkruhu; a
+- **(d)** přesouvat Role nebo Politiky z Podkruhu nebo jakéhokoli Podkruhu z něj do Kruhu, ale pouze v případě, že již nejsou relevantní pro upravení Poslání nebo Odpovědnosti daného Podokruhu; a
 - **(e)** pořádat volby pro jakoukoli volenou Roli v Kruhu.
 
 Žádná další rozhodnutí nejsou platnými výstupy procesu řízení Kruhu.
@@ -335,9 +335,9 @@ Pokud Facilitátor kdykoliv zjistí, že Návrh nesplňuje tato kritéria, musí
 
 Obava z přijetí Návrhu se považuje za Námitku pouze tehdy, může-li Namitatel poskytnout rozumný argument, proč splňuje ***všechna*** tato kritéria:
 
-- **a)** Návrh by snížil schopnost Kruhu vyjadřovat jeho Záměr nebo Odpovědnosti.
+- **a)** Návrh by snížil schopnost Kruhu vyjadřovat jeho Poslání nebo Odpovědnosti.
 
-- **(b)** Návrh by omezil schopnost Namitatele, naplňovat Záměr nebo Odpovědnost Role, kterou Namitatel v Kruhu, představuje, i kdyby Namitatel nedržel v Organizaci žádné jiné Role.
+- **(b)** Návrh by omezil schopnost Namitatele, naplňovat Poslání nebo Odpovědnost Role, kterou Namitatel v Kruhu, představuje, i kdyby Namitatel nedržel v Organizaci žádné jiné Role.
 
 - **c)** Obava neexistuje ani  případě nepřítomnosti Návrhu. Přijetím Návrhu by tedy byla vytvořena nová Tenze.
 
