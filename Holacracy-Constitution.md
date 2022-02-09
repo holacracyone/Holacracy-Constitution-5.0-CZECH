@@ -238,7 +238,7 @@ Proti výkladu Tajemníka se můžete odvolat k Tajemníkovi kteréhokoli Superk
 
 #### 4.2.2 Vyškrtnutí neplatného řízení
 
-Kterýkoli Partner může požádat Tajemníka Kruhu, aby rozhodl o platnosti jakýkoliv Pravidel řízení v rámci tohoto Kruhu nebo jakéhokoli jeho Podkruhu. Pokud Tajemník dojde k závěru, že porušují pravidla této Ústavy, musí ji vyškrtnout z evidence Kruhu. Poté, co tak učiní, musí tajemník neprodleně sdělit, co a proč vyškrtl, všem Partnerům zastávajícím Role v daném Kruhu.
+Kterýkoli Partner může požádat Tajemníka Kruhu, aby rozhodl o platnosti jakýkoliv Pravidel řízení v rámci tohoto Kruhu nebo jakéhokoli jeho Podkruhu. Pokud Tajemník dojde k závěru, že porušují pravidla této Ústavy, musí ji vyškrtnout z evidence Kruhu. Poté, co tak učiní, musí tajemník neprodleně sdělit, co a proč vyškrtl, všem Partnerům zastávající Role v daném Kruhu.
 
 ### 4.3 Individuální akce
 
