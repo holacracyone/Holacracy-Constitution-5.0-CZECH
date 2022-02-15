@@ -19,9 +19,9 @@ Každý Partner se může dovolávat pravomocí udělených touto Ústavou v pln
 
 Definice Role se skládá z popisného názvu a jednoho nebo více z následujících údajů:
 
-- **(a)** ***“Poslání”***, což je schopnost, potenciál, nebo cíl, který Role sleduje nebo vyjadřuje.
-- **(b)** jedna nebo více ***“Domén”***, což jsou aktiva, procesy nebo jiné věci, které může Role pro svůj Záměr výhradně kontrolovat a regulovat jako svůj majetek.
-- **(c)** jedna nebo více ***“Odpovědností”***, což jsou průběžné aktivity, které Role řídí a přijímá je jako službu jiným Rolí nebo na podporu svého Záměru.
+- **(a)** ***“Účel”***, což je schopnost, potenciál, nebo cíl, který Role sleduje nebo vyjadřuje.
+- **(b)** jedna nebo více ***“Domén”***, což jsou aktiva, procesy nebo jiné věci, které může Role pro svůj Účel výhradně kontrolovat a regulovat jako svůj majetek.
+- **(c)** jedna nebo více ***“Odpovědností”***, což jsou průběžné aktivity, které Role řídí a přijímá je jako službu jiným Rolí nebo na podporu svého Účelu.
 
 Role může obsahovat také ***“Politiky”***, které jsou udělením nebo omezením pravomoci, nebo zvláštní pravidla, která platí v rámci této role.
 
@@ -31,11 +31,11 @@ Jako Lídr Role máte následující povinnosti:
 
 #### 1.2.1 Zpracovávat tenze
 
-Vaší odpovědností je porovnávat skutečné vyjádření Poslání a Odpovědností vaší Role s vaší vizí jejich ideálního potenciálu a identifikovat rozdíly mezi nimi (každý rozdíl je ***„Tenze“*** ). Vaší odpovědností je pokusit se tyto tenze vyřešit.
+Vaší odpovědností je porovnávat skutečné vyjádření Účelu a Odpovědností vaší Role s vaší vizí jejich ideálního potenciálu a identifikovat rozdíly mezi nimi (každý rozdíl je ***„Tenze“*** ). Vaší odpovědností je pokusit se tyto tenze vyřešit.
 
-#### 1.2.2 Zpracovávat Poslání & Odpovědnosti
+#### 1.2.2 Zpracovávat Účel & Odpovědnosti
 
-Vaší odpovědností je pravidelně zvažovat, jak naplňovat Záměr vaší Role a každou Odpovědnost, a to definováním:
+Vaší odpovědností je pravidelně zvažovat, jak naplňovat Účel vaší Role a každou Odpovědnost, a to definováním:
 
 - **(a)** ***“Next-Actions”***, což jsou užitečné akce, které byste mohli provést okamžitě, přinejmenším v případě neexistence konkurenčních priorit; a
 - **(b)** ***“Projects”***, což jsou konkrétní výsledky, na jejichž dosažení by bylo užitečné pracovat, v případě neexistence konkurenčních priorit.
@@ -226,7 +226,7 @@ Politika může tento proces jakýmkoli způsobem změnit nebo přímo autorizov
 
 ### 4.2 Výklad pravomoci
 
-Jako Partner můžete při výkladu této Ústavy a všeho, co spadá pod její pravomoc, používat svůj rozumný úsudek. Dále můžete vykládat, jak se uplatňují v rámci jakékoli konkrétní situace, které čelíte, a jednat na základě svých výkladů. Veškerá pravidla řízení však musíte vykládat v kontextu Poslání a Odpovědnosti Kruhu, který ji obsahuje, a v rámci všech oficiálních výkladových rozhodnutí tohoto Kruhu nebo jeho Superkruhu. Nesmíte používat žádné výklady, které jsou v rozporu s tímto kontextem nebo těmito rozhodnutími.
+Jako Partner můžete při výkladu této Ústavy a všeho, co spadá pod její pravomoc, používat svůj rozumný úsudek. Dále můžete vykládat, jak se uplatňují v rámci jakékoli konkrétní situace, které čelíte, a jednat na základě svých výkladů. Veškerá pravidla řízení však musíte vykládat v kontextu Účelu a Odpovědnosti Kruhu, který ji obsahuje, a v rámci všech oficiálních výkladových rozhodnutí tohoto Kruhu nebo jeho Superkruhu. Nesmíte používat žádné výklady, které jsou v rozporu s tímto kontextem nebo těmito rozhodnutími.
 
 #### 4.2.1 Rozpory výkladu
 
@@ -248,7 +248,7 @@ Jako Partner jste v některých případech oprávněni vyvinout ***"Individuál
 
 Individuální akci smíte uplatnit pouze v případě, že platí všechny následující skutečnosti:
 
- **(a)** Jednáte v dobré víře, abyste sloužili Poslání nebo vyjádřili Odpovědnost za nějakou Roli v rámci Organizace.
+ **(a)** Jednáte v dobré víře, abyste sloužili Účelu nebo vyjádřili Odpovědnost za nějakou Roli v rámci Organizace.
  **(b)** Věříte, že by vaše Individuální akce vyřešila nebo zabránila větší Tenzi  pro Organizaci, než by pravděpodobně sama vytvořila.
  **(c)** Vaše Individuální akce by nezavázala Organizaci k žádným výdajům nad rámec toho, co jste již oprávněni utratit.
  **(d)** Pokud by vaše Individuální akce porušila jakékoli Politiky nebo Domény, domníváte se, že nemůžete zdržet individuální akci na tak dlouho, abyste si vyžádali povolení nebo změnu pravidel řízení, aniž by došlo ke ztrátě velké hodnoty.
@@ -272,7 +272,7 @@ Každý Kruh má skupinu ***„Členů Kruhu“***, kteří mohou zastupovat jeh
 
 #### 5.1.1 Zástupci Kruhu
 
-Kterýkoli Člen Kruhu může kdykoli požádat o volby a vybrat nebo nahradit někoho jako ***"Zástupce Kruhu"***, aby pomohl zastupovat daný Kruh v rámci širšího Kruhu, který jej zahrnuje. Zvolený Zástupce Kruhu plní v Kruhu ***"Roli Zástupce Kruhu"*** s Posláním "Tenze relevantní pro proces jsou v širším Kruhu usměrněné a vyřešené" a následujícími Odpovědnostmi:
+Kterýkoli Člen Kruhu může kdykoli požádat o volby a vybrat nebo nahradit někoho jako ***"Zástupce Kruhu"***, aby pomohl zastupovat daný Kruh v rámci širšího Kruhu, který jej zahrnuje. Zvolený Zástupce Kruhu plní v Kruhu ***"Roli Zástupce Kruhu"*** s Účelem "Tenze relevantní pro proces jsou v širším Kruhu usměrněné a vyřešené" a následujícími Odpovědnostmi:
 
 - **(a**) Snažit se pochopit Tenze, které předávají Lídři Rolí v rámci Kruhu.
 - **(b)** Rozpoznávání Tenze vhodné pro proces v rámci širšího Kruhu, v němž se Kruh nachází.
@@ -282,7 +282,7 @@ Kruh musí použít Integrační postup volby zde definovaný k výběru Zástup
 
 Vybraný Zástupce Kruhu se stane Členem Kruhu libovolného Kruhu, který obsahuje vnější Roli daného Kruhu, s oprávněním reprezentovat tuto Roli stejně jako Lídr Kruhu. Obsahující Kruh může omezit nebo zabránit těmto Zástupcům Kruhu, aby se stali jeho Členy Kruhu prostřednictvím Politik, ale pouze v případě, že jeho Role mají jiný způsob, jak si použít srovnatelné zastoupení v tomto Kruhu.
 
-Kruh může přidat Odpovědnost nebo Domény do své vlastní Role Zástupce Kruhu a tyto dodatky upravit nebo odebrat. Žádný Kruh nesmí měnit ani odstraňovat Poslání Role, ani žádné Odpovědnosti, které jsou na tuto Roli kladeny touto Ústavou. 
+Kruh může přidat Odpovědnost nebo Domény do své vlastní Role Zástupce Kruhu a tyto dodatky upravit nebo odebrat. Žádný Kruh nesmí měnit ani odstraňovat Účel Role, ani žádné Odpovědnosti, které jsou na tuto Roli kladeny touto Ústavou. 
 
 #### 5.1.2 Facilitator & Tajemník
 
