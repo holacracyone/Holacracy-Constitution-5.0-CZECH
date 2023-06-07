@@ -260,7 +260,7 @@ Po přijetí Individuální akce musíte vysvětlit své kroky všem Lídrům Ro
 Komunikaci a obnovu vyžadovanou v této části musíte upřednostnit před svou běžnou aktivitou. Avšak Lídr Kruhu v Kruhu, který obsahuje všechny Role ovlivněné vaší akcí, může změnit tuto výchozí prioritu.
 
 
-## Článek 5: Pravidla řízen
+## Článek 5: Pravidla řízení
 
 Změna Pravidel řízení vyžaduje použití zde definovaného ***„Procesu pravidel řízení“***.
 
