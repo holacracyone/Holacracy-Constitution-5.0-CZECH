@@ -116,7 +116,7 @@ Lídr Kruhu může posoudit relativní hodnotu potenciálních snah Kruhu o vyř
 
 #### 1.4.4 Směrování externích odkazů
 
-Kdykoli Pravidla řízení mimo Kruh odkazují na Kruh samotný nebo na jakoukoliv Roli v Kruhu, může Lídr Kruhu aktualizovat tento odkaz tak, aby místo toho odkazoval na jinou Roli v Kruhu. Toto vyjasnění se nepovažuje za změnu Pravidel řízení tohoto Kruhu..
+Kdykoli Pravidla řízení mimo Kruh odkazují na Kruh samotný nebo na jakoukoliv Roli v Kruhu, může Lídr Kruhu aktualizovat tento odkaz tak, aby místo toho odkazoval na jinou Roli v Kruhu. Toto vyjasnění se nepovažuje za změnu Pravidel řízení tohoto Kruhu.
 
 #### 1.4.5 Úprava Role Lídr Kruhu
 
