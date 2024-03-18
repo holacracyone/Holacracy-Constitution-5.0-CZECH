@@ -173,7 +173,7 @@ Jako Partner máte povinnost sladit své chování s jakoukoli písemnou Vztahov
 
 Kterýkoli Partner může svolat ***"Taktickou schůzku"***, aby pomohl Partnerům vzájemně se zapojit do plnění jejich povinností a úkolů. Kromě toho je Tajemník každého Kruhu odpovědný za plánování pravidelných Taktických schůzek Kruhu.
 
-### 3.1 3.1 Účast
+### 3.1 Účast
 
 Na pravidelné Taktické schůzky svolávané Tajemníkem Kruhu jsou zvány všechny Role Kruhu, pokud není v Politice uvedeno jinak. U ostatních Taktických schůzek musí Partner svolávající schůzku určit Role, které jsou na danou schůzku pozvány. K účasti a zastupování těchto Rolí jsou pak pozváni všichni Partneři, kteří působí jako Lídři Rolí těchto Rolí, pokud svolavatel nezúží pozvánku tak, aby zahrnovala pouze podmnožinu Lídrů Rolí pro danou Roli.
 
